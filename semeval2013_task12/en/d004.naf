@@ -1,0 +1,3391 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="1.0">
+  <nafHeader>
+    <linguisticProcessors layer="text">
+      <lp name="SemEval2013_task#12_tokens" version="1.0" timestamp="2015-01-12T11:47:45CET" beginTimestamp="2015-01-12T11:47:45CET" endTimestamp="2015-01-12T11:47:45CET" hostname="kyoto"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="SemEval2013_task#12_terms" version="1.0" timestamp="2015-01-12T11:47:45CET" beginTimestamp="2015-01-12T11:47:45CET" endTimestamp="2015-01-12T11:47:45CET" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" offset="0" sent="1">Iraqi_Oil_Ministry</wf>
+    <wf id="w2" offset="19" sent="1">reaches</wf>
+    <wf id="w3" offset="27" sent="1">deals</wf>
+    <wf id="w4" offset="33" sent="1">with</wf>
+    <wf id="w5" offset="38" sent="1">10</wf>
+    <wf id="w6" offset="41" sent="1">foreign</wf>
+    <wf id="w7" offset="49" sent="1">oil_companies</wf>
+    <wf id="w8" offset="63" sent="2">Despite</wf>
+    <wf id="w9" offset="71" sent="2">concerns</wf>
+    <wf id="w10" offset="80" sent="2">about</wf>
+    <wf id="w11" offset="86" sent="2">violence</wf>
+    <wf id="w12" offset="95" sent="2">and</wf>
+    <wf id="w13" offset="99" sent="2">political</wf>
+    <wf id="w14" offset="109" sent="2">instability</wf>
+    <wf id="w15" offset="121" sent="2">,</wf>
+    <wf id="w16" offset="123" sent="2">the</wf>
+    <wf id="w17" offset="127" sent="2">Iraqi</wf>
+    <wf id="w18" offset="133" sent="2">government</wf>
+    <wf id="w19" offset="144" sent="2">managed</wf>
+    <wf id="w20" offset="152" sent="2">to</wf>
+    <wf id="w21" offset="155" sent="2">attract</wf>
+    <wf id="w22" offset="163" sent="2">major</wf>
+    <wf id="w23" offset="169" sent="2">oil_companies</wf>
+    <wf id="w24" offset="183" sent="2">to</wf>
+    <wf id="w25" offset="186" sent="2">rebuild</wf>
+    <wf id="w26" offset="194" sent="2">its</wf>
+    <wf id="w27" offset="198" sent="2">ailing</wf>
+    <wf id="w28" offset="205" sent="2">infrastructure</wf>
+    <wf id="w29" offset="220" sent="2">during</wf>
+    <wf id="w30" offset="227" sent="2">two</wf>
+    <wf id="w31" offset="231" sent="2">auctions</wf>
+    <wf id="w32" offset="240" sent="2">that</wf>
+    <wf id="w33" offset="245" sent="2">concluded</wf>
+    <wf id="w34" offset="255" sent="2">Saturday</wf>
+    <wf id="w35" offset="264" sent="2">.</wf>
+    <wf id="w36" offset="266" sent="3">The</wf>
+    <wf id="w37" offset="270" sent="3">10</wf>
+    <wf id="w38" offset="273" sent="3">deals</wf>
+    <wf id="w39" offset="279" sent="3">the</wf>
+    <wf id="w40" offset="283" sent="3">Iraqi_Oil_Ministry</wf>
+    <wf id="w41" offset="302" sent="3">reached</wf>
+    <wf id="w42" offset="310" sent="3">with</wf>
+    <wf id="w43" offset="315" sent="3">foreign</wf>
+    <wf id="w44" offset="323" sent="3">oil_companies</wf>
+    <wf id="w45" offset="337" sent="3">suggest</wf>
+    <wf id="w46" offset="345" sent="3">that</wf>
+    <wf id="w47" offset="350" sent="3">China</wf>
+    <wf id="w48" offset="356" sent="3">,</wf>
+    <wf id="w49" offset="358" sent="3">Russia</wf>
+    <wf id="w50" offset="365" sent="3">and</wf>
+    <wf id="w51" offset="369" sent="3">European</wf>
+    <wf id="w52" offset="378" sent="3">oil</wf>
+    <wf id="w53" offset="382" sent="3">firms</wf>
+    <wf id="w54" offset="388" sent="3">are</wf>
+    <wf id="w55" offset="392" sent="3">poised</wf>
+    <wf id="w56" offset="399" sent="3">to</wf>
+    <wf id="w57" offset="402" sent="3">play</wf>
+    <wf id="w58" offset="407" sent="3">a</wf>
+    <wf id="w59" offset="409" sent="3">major</wf>
+    <wf id="w60" offset="415" sent="3">role</wf>
+    <wf id="w61" offset="420" sent="3">in</wf>
+    <wf id="w62" offset="423" sent="3">refurbishing</wf>
+    <wf id="w63" offset="436" sent="3">Iraq</wf>
+    <wf id="w64" offset="441" sent="3">'s</wf>
+    <wf id="w65" offset="444" sent="3">oil_industry</wf>
+    <wf id="w66" offset="457" sent="3">,</wf>
+    <wf id="w67" offset="459" sent="3">crippled</wf>
+    <wf id="w68" offset="468" sent="3">by</wf>
+    <wf id="w69" offset="471" sent="3">decades</wf>
+    <wf id="w70" offset="479" sent="3">of</wf>
+    <wf id="w71" offset="482" sent="3">war</wf>
+    <wf id="w72" offset="486" sent="3">and</wf>
+    <wf id="w73" offset="490" sent="3">sanctions</wf>
+    <wf id="w74" offset="500" sent="3">.</wf>
+    <wf id="w75" offset="502" sent="4">American</wf>
+    <wf id="w76" offset="511" sent="4">companies</wf>
+    <wf id="w77" offset="521" sent="4">walked</wf>
+    <wf id="w78" offset="528" sent="4">away</wf>
+    <wf id="w79" offset="533" sent="4">with</wf>
+    <wf id="w80" offset="538" sent="4">stakes</wf>
+    <wf id="w81" offset="545" sent="4">in</wf>
+    <wf id="w82" offset="548" sent="4">just</wf>
+    <wf id="w83" offset="553" sent="4">two</wf>
+    <wf id="w84" offset="557" sent="4">of</wf>
+    <wf id="w85" offset="560" sent="4">the</wf>
+    <wf id="w86" offset="564" sent="4">10</wf>
+    <wf id="w87" offset="567" sent="4">auctioned</wf>
+    <wf id="w88" offset="577" sent="4">fields</wf>
+    <wf id="w89" offset="584" sent="4">.</wf>
+    <wf id="w90" offset="586" sent="5">Seven</wf>
+    <wf id="w91" offset="592" sent="5">American</wf>
+    <wf id="w92" offset="601" sent="5">companies</wf>
+    <wf id="w93" offset="611" sent="5">had</wf>
+    <wf id="w94" offset="615" sent="5">paid</wf>
+    <wf id="w95" offset="620" sent="5">to</wf>
+    <wf id="w96" offset="623" sent="5">participate</wf>
+    <wf id="w97" offset="635" sent="5">in</wf>
+    <wf id="w98" offset="638" sent="5">the</wf>
+    <wf id="w99" offset="642" sent="5">second</wf>
+    <wf id="w100" offset="649" sent="5">auction</wf>
+    <wf id="w101" offset="657" sent="5">,</wf>
+    <wf id="w102" offset="659" sent="5">which</wf>
+    <wf id="w103" offset="665" sent="5">began</wf>
+    <wf id="w104" offset="671" sent="5">Friday</wf>
+    <wf id="w105" offset="678" sent="5">.</wf>
+    <wf id="w106" offset="680" sent="6">The</wf>
+    <wf id="w107" offset="684" sent="6">only</wf>
+    <wf id="w108" offset="689" sent="6">one</wf>
+    <wf id="w109" offset="693" sent="6">that</wf>
+    <wf id="w110" offset="698" sent="6">submitted</wf>
+    <wf id="w111" offset="708" sent="6">a</wf>
+    <wf id="w112" offset="710" sent="6">bid</wf>
+    <wf id="w113" offset="714" sent="6">lost</wf>
+    <wf id="w114" offset="719" sent="6">.</wf>
+    <wf id="w115" offset="721" sent="7">Two</wf>
+    <wf id="w116" offset="725" sent="7">American</wf>
+    <wf id="w117" offset="734" sent="7">companies</wf>
+    <wf id="w118" offset="744" sent="7">reached</wf>
+    <wf id="w119" offset="752" sent="7">deals</wf>
+    <wf id="w120" offset="758" sent="7">for</wf>
+    <wf id="w121" offset="762" sent="7">fields</wf>
+    <wf id="w122" offset="769" sent="7">auctioned</wf>
+    <wf id="w123" offset="779" sent="7">in</wf>
+    <wf id="w124" offset="782" sent="7">June</wf>
+    <wf id="w125" offset="787" sent="7">.</wf>
+    <wf id="w126" offset="789" sent="8">The</wf>
+    <wf id="w127" offset="793" sent="8">meager</wf>
+    <wf id="w128" offset="800" sent="8">representation</wf>
+    <wf id="w129" offset="815" sent="8">of</wf>
+    <wf id="w130" offset="818" sent="8">American</wf>
+    <wf id="w131" offset="827" sent="8">oil</wf>
+    <wf id="w132" offset="831" sent="8">giants</wf>
+    <wf id="w133" offset="838" sent="8">in</wf>
+    <wf id="w134" offset="841" sent="8">Iraq</wf>
+    <wf id="w135" offset="846" sent="8">'s</wf>
+    <wf id="w136" offset="849" sent="8">opening</wf>
+    <wf id="w137" offset="857" sent="8">oil_industry</wf>
+    <wf id="w138" offset="870" sent="8">surprised</wf>
+    <wf id="w139" offset="880" sent="8">analysts</wf>
+    <wf id="w140" offset="889" sent="8">.</wf>
+    <wf id="w141" offset="891" sent="9">Iraq</wf>
+    <wf id="w142" offset="896" sent="9">finally</wf>
+    <wf id="w143" offset="904" sent="9">opened</wf>
+    <wf id="w144" offset="911" sent="9">its</wf>
+    <wf id="w145" offset="915" sent="9">doors</wf>
+    <wf id="w146" offset="921" sent="9">after</wf>
+    <wf id="w147" offset="927" sent="9">six</wf>
+    <wf id="w148" offset="931" sent="9">years</wf>
+    <wf id="w149" offset="937" sent="9">of</wf>
+    <wf id="w150" offset="940" sent="9">war</wf>
+    <wf id="w151" offset="944" sent="9">,</wf>
+    <wf id="w152" offset="946" sent="9">and</wf>
+    <wf id="w153" offset="950" sent="9">instead</wf>
+    <wf id="w154" offset="958" sent="9">of</wf>
+    <wf id="w155" offset="961" sent="9">U.S.</wf>
+    <wf id="w156" offset="966" sent="9">companies</wf>
+    <wf id="w157" offset="976" sent="9">,</wf>
+    <wf id="w158" offset="978" sent="9">you</wf>
+    <wf id="w159" offset="982" sent="9">have</wf>
+    <wf id="w160" offset="987" sent="9">Asians</wf>
+    <wf id="w161" offset="994" sent="9">and</wf>
+    <wf id="w162" offset="998" sent="9">Europeans</wf>
+    <wf id="w163" offset="1008" sent="9">leading</wf>
+    <wf id="w164" offset="1016" sent="9">the</wf>
+    <wf id="w165" offset="1020" sent="9">way</wf>
+    <wf id="w166" offset="1024" sent="9">,</wf>
+    <wf id="w167" offset="1026" sent="9">said</wf>
+    <wf id="w168" offset="1031" sent="9">Ruba</wf>
+    <wf id="w169" offset="1036" sent="9">Husari</wf>
+    <wf id="w170" offset="1043" sent="9">,</wf>
+    <wf id="w171" offset="1045" sent="9">the</wf>
+    <wf id="w172" offset="1049" sent="9">editor</wf>
+    <wf id="w173" offset="1056" sent="9">of</wf>
+    <wf id="w174" offset="1059" sent="9">Iraq</wf>
+    <wf id="w175" offset="1064" sent="9">Oil</wf>
+    <wf id="w176" offset="1068" sent="9">Forum</wf>
+    <wf id="w177" offset="1074" sent="9">,</wf>
+    <wf id="w178" offset="1076" sent="9">an</wf>
+    <wf id="w179" offset="1079" sent="9">online</wf>
+    <wf id="w180" offset="1086" sent="9">news</wf>
+    <wf id="w181" offset="1091" sent="9">outlet</wf>
+    <wf id="w182" offset="1098" sent="9">.</wf>
+    <wf id="w183" offset="1100" sent="10">It</wf>
+    <wf id="w184" offset="1103" sent="10">will</wf>
+    <wf id="w185" offset="1108" sent="10">be</wf>
+    <wf id="w186" offset="1111" sent="10">a</wf>
+    <wf id="w187" offset="1113" sent="10">long_time</wf>
+    <wf id="w188" offset="1123" sent="10">before</wf>
+    <wf id="w189" offset="1130" sent="10">anything</wf>
+    <wf id="w190" offset="1139" sent="10">else</wf>
+    <wf id="w191" offset="1144" sent="10">will</wf>
+    <wf id="w192" offset="1149" sent="10">be</wf>
+    <wf id="w193" offset="1152" sent="10">on</wf>
+    <wf id="w194" offset="1155" sent="10">offer</wf>
+    <wf id="w195" offset="1161" sent="10">in</wf>
+    <wf id="w196" offset="1164" sent="10">Iraq</wf>
+    <wf id="w197" offset="1169" sent="10">.</wf>
+    <wf id="w198" offset="1171" sent="11">Concerns</wf>
+    <wf id="w199" offset="1180" sent="11">over</wf>
+    <wf id="w200" offset="1185" sent="11">security</wf>
+    <wf id="w201" offset="1194" sent="11">,</wf>
+    <wf id="w202" offset="1196" sent="11">underscored</wf>
+    <wf id="w203" offset="1208" sent="11">by</wf>
+    <wf id="w204" offset="1211" sent="11">massive</wf>
+    <wf id="w205" offset="1219" sent="11">coordinated</wf>
+    <wf id="w206" offset="1231" sent="11">bombings</wf>
+    <wf id="w207" offset="1240" sent="11">Tuesday</wf>
+    <wf id="w208" offset="1248" sent="11">,</wf>
+    <wf id="w209" offset="1250" sent="11">and</wf>
+    <wf id="w210" offset="1254" sent="11">political</wf>
+    <wf id="w211" offset="1264" sent="11">instability</wf>
+    <wf id="w212" offset="1276" sent="11">as</wf>
+    <wf id="w213" offset="1279" sent="11">the</wf>
+    <wf id="w214" offset="1283" sent="11">U.S.</wf>
+    <wf id="w215" offset="1288" sent="11">military</wf>
+    <wf id="w216" offset="1297" sent="11">withdraws</wf>
+    <wf id="w217" offset="1307" sent="11">,</wf>
+    <wf id="w218" offset="1309" sent="11">likely</wf>
+    <wf id="w219" offset="1316" sent="11">kept</wf>
+    <wf id="w220" offset="1321" sent="11">American</wf>
+    <wf id="w221" offset="1330" sent="11">oil_companies</wf>
+    <wf id="w222" offset="1344" sent="11">from</wf>
+    <wf id="w223" offset="1349" sent="11">venturing</wf>
+    <wf id="w224" offset="1359" sent="11">more</wf>
+    <wf id="w225" offset="1364" sent="11">forcefully</wf>
+    <wf id="w226" offset="1375" sent="11">in</wf>
+    <wf id="w227" offset="1378" sent="11">Iraq</wf>
+    <wf id="w228" offset="1383" sent="11">,</wf>
+    <wf id="w229" offset="1385" sent="11">which</wf>
+    <wf id="w230" offset="1391" sent="11">has</wf>
+    <wf id="w231" offset="1395" sent="11">the</wf>
+    <wf id="w232" offset="1399" sent="11">world</wf>
+    <wf id="w233" offset="1405" sent="11">'s</wf>
+    <wf id="w234" offset="1408" sent="11">third-largest</wf>
+    <wf id="w235" offset="1422" sent="11">proven</wf>
+    <wf id="w236" offset="1429" sent="11">crude</wf>
+    <wf id="w237" offset="1435" sent="11">reserves</wf>
+    <wf id="w238" offset="1444" sent="11">,</wf>
+    <wf id="w239" offset="1446" sent="11">analysts</wf>
+    <wf id="w240" offset="1455" sent="11">said</wf>
+    <wf id="w241" offset="1460" sent="11">.</wf>
+    <wf id="w242" offset="1462" sent="12">U.S.</wf>
+    <wf id="w243" offset="1467" sent="12">firms</wf>
+    <wf id="w244" offset="1473" sent="12">were</wf>
+    <wf id="w245" offset="1478" sent="12">in</wf>
+    <wf id="w246" offset="1481" sent="12">some</wf>
+    <wf id="w247" offset="1486" sent="12">cases</wf>
+    <wf id="w248" offset="1492" sent="12">at</wf>
+    <wf id="w249" offset="1495" sent="12">a</wf>
+    <wf id="w250" offset="1497" sent="12">disadvantage</wf>
+    <wf id="w251" offset="1510" sent="12">because</wf>
+    <wf id="w252" offset="1518" sent="12">rivals</wf>
+    <wf id="w253" offset="1525" sent="12">,</wf>
+    <wf id="w254" offset="1527" sent="12">particularly</wf>
+    <wf id="w255" offset="1540" sent="12">the</wf>
+    <wf id="w256" offset="1544" sent="12">Chinese</wf>
+    <wf id="w257" offset="1552" sent="12">and</wf>
+    <wf id="w258" offset="1556" sent="12">other</wf>
+    <wf id="w259" offset="1562" sent="12">government</wf>
+    <wf id="w260" offset="1573" sent="12">controlled</wf>
+    <wf id="w261" offset="1584" sent="12">energy</wf>
+    <wf id="w262" offset="1591" sent="12">firms</wf>
+    <wf id="w263" offset="1597" sent="12">,</wf>
+    <wf id="w264" offset="1599" sent="12">have</wf>
+    <wf id="w265" offset="1604" sent="12">markedly</wf>
+    <wf id="w266" offset="1613" sent="12">lower</wf>
+    <wf id="w267" offset="1619" sent="12">labor_costs</wf>
+    <wf id="w268" offset="1631" sent="12">and</wf>
+    <wf id="w269" offset="1635" sent="12">are</wf>
+    <wf id="w270" offset="1639" sent="12">more</wf>
+    <wf id="w271" offset="1644" sent="12">prone</wf>
+    <wf id="w272" offset="1650" sent="12">to</wf>
+    <wf id="w273" offset="1653" sent="12">take</wf>
+    <wf id="w274" offset="1658" sent="12">risks</wf>
+    <wf id="w275" offset="1664" sent="12">because</wf>
+    <wf id="w276" offset="1672" sent="12">they</wf>
+    <wf id="w277" offset="1677" sent="12">do</wf>
+    <wf id="w278" offset="1680" sent="12">n't</wf>
+    <wf id="w279" offset="1684" sent="12">respond</wf>
+    <wf id="w280" offset="1692" sent="12">to</wf>
+    <wf id="w281" offset="1695" sent="12">shareholders</wf>
+    <wf id="w282" offset="1708" sent="12">.</wf>
+    <wf id="w283" offset="1710" sent="13">Exxon-Mobil</wf>
+    <wf id="w284" offset="1722" sent="13">and</wf>
+    <wf id="w285" offset="1726" sent="13">Occidental_Petroleum</wf>
+    <wf id="w286" offset="1747" sent="13">Inc.</wf>
+    <wf id="w287" offset="1752" sent="13">were</wf>
+    <wf id="w288" offset="1757" sent="13">the</wf>
+    <wf id="w289" offset="1761" sent="13">only</wf>
+    <wf id="w290" offset="1766" sent="13">American</wf>
+    <wf id="w291" offset="1775" sent="13">companies</wf>
+    <wf id="w292" offset="1785" sent="13">that</wf>
+    <wf id="w293" offset="1790" sent="13">reached</wf>
+    <wf id="w294" offset="1798" sent="13">deals</wf>
+    <wf id="w295" offset="1804" sent="13">with</wf>
+    <wf id="w296" offset="1809" sent="13">the</wf>
+    <wf id="w297" offset="1813" sent="13">ministry</wf>
+    <wf id="w298" offset="1822" sent="13">.</wf>
+    <wf id="w299" offset="1824" sent="14">Major</wf>
+    <wf id="w300" offset="1830" sent="14">U.S.</wf>
+    <wf id="w301" offset="1835" sent="14">firms</wf>
+    <wf id="w302" offset="1841" sent="14">such</wf>
+    <wf id="w303" offset="1846" sent="14">as</wf>
+    <wf id="w304" offset="1849" sent="14">Chevron</wf>
+    <wf id="w305" offset="1857" sent="14">and</wf>
+    <wf id="w306" offset="1861" sent="14">ConocoPhillips</wf>
+    <wf id="w307" offset="1876" sent="14">,</wf>
+    <wf id="w308" offset="1878" sent="14">which</wf>
+    <wf id="w309" offset="1884" sent="14">have</wf>
+    <wf id="w310" offset="1889" sent="14">cultivated</wf>
+    <wf id="w311" offset="1900" sent="14">close</wf>
+    <wf id="w312" offset="1906" sent="14">ties</wf>
+    <wf id="w313" offset="1911" sent="14">with</wf>
+    <wf id="w314" offset="1916" sent="14">the</wf>
+    <wf id="w315" offset="1920" sent="14">Iraqi_Oil_Ministry</wf>
+    <wf id="w316" offset="1939" sent="14">and</wf>
+    <wf id="w317" offset="1943" sent="14">have</wf>
+    <wf id="w318" offset="1948" sent="14">provided</wf>
+    <wf id="w319" offset="1957" sent="14">technical</wf>
+    <wf id="w320" offset="1967" sent="14">advice</wf>
+    <wf id="w321" offset="1974" sent="14">in</wf>
+    <wf id="w322" offset="1977" sent="14">recent</wf>
+    <wf id="w323" offset="1984" sent="14">years</wf>
+    <wf id="w324" offset="1990" sent="14">,</wf>
+    <wf id="w325" offset="1992" sent="14">walked</wf>
+    <wf id="w326" offset="1999" sent="14">away</wf>
+    <wf id="w327" offset="2004" sent="14">empty-handed</wf>
+    <wf id="w328" offset="2017" sent="14">.</wf>
+    <wf id="w329" offset="2019" sent="15">Russian</wf>
+    <wf id="w330" offset="2027" sent="15">companies</wf>
+    <wf id="w331" offset="2037" sent="15">Lukoil</wf>
+    <wf id="w332" offset="2044" sent="15">and</wf>
+    <wf id="w333" offset="2048" sent="15">Gazprom</wf>
+    <wf id="w334" offset="2056" sent="15">were</wf>
+    <wf id="w335" offset="2061" sent="15">the</wf>
+    <wf id="w336" offset="2065" sent="15">top</wf>
+    <wf id="w337" offset="2069" sent="15">stakeholders</wf>
+    <wf id="w338" offset="2082" sent="15">in</wf>
+    <wf id="w339" offset="2085" sent="15">two</wf>
+    <wf id="w340" offset="2089" sent="15">of</wf>
+    <wf id="w341" offset="2092" sent="15">the</wf>
+    <wf id="w342" offset="2096" sent="15">contracts</wf>
+    <wf id="w343" offset="2106" sent="15">awarded</wf>
+    <wf id="w344" offset="2114" sent="15">this</wf>
+    <wf id="w345" offset="2119" sent="15">weekend</wf>
+    <wf id="w346" offset="2127" sent="15">.</wf>
+    <wf id="w347" offset="2129" sent="16">State-owned</wf>
+    <wf id="w348" offset="2141" sent="16">China_National_Petroleum_Corporation</wf>
+    <wf id="w349" offset="2178" sent="16">bid</wf>
+    <wf id="w350" offset="2182" sent="16">on</wf>
+    <wf id="w351" offset="2185" sent="16">more</wf>
+    <wf id="w352" offset="2190" sent="16">contracts</wf>
+    <wf id="w353" offset="2200" sent="16">than</wf>
+    <wf id="w354" offset="2205" sent="16">any</wf>
+    <wf id="w355" offset="2209" sent="16">other</wf>
+    <wf id="w356" offset="2215" sent="16">company</wf>
+    <wf id="w357" offset="2223" sent="16">and</wf>
+    <wf id="w358" offset="2227" sent="16">walked</wf>
+    <wf id="w359" offset="2234" sent="16">away</wf>
+    <wf id="w360" offset="2239" sent="16">with</wf>
+    <wf id="w361" offset="2244" sent="16">large</wf>
+    <wf id="w362" offset="2250" sent="16">stakes</wf>
+    <wf id="w363" offset="2257" sent="16">in</wf>
+    <wf id="w364" offset="2260" sent="16">contracts</wf>
+    <wf id="w365" offset="2270" sent="16">for</wf>
+    <wf id="w366" offset="2274" sent="16">two</wf>
+    <wf id="w367" offset="2278" sent="16">major</wf>
+    <wf id="w368" offset="2284" sent="16">fields</wf>
+    <wf id="w369" offset="2291" sent="16">.</wf>
+    <wf id="w370" offset="2293" sent="17">We</wf>
+    <wf id="w371" offset="2296" sent="17">all</wf>
+    <wf id="w372" offset="2300" sent="17">know</wf>
+    <wf id="w373" offset="2305" sent="17">that</wf>
+    <wf id="w374" offset="2310" sent="17">China</wf>
+    <wf id="w375" offset="2316" sent="17">is</wf>
+    <wf id="w376" offset="2319" sent="17">on</wf>
+    <wf id="w377" offset="2322" sent="17">track</wf>
+    <wf id="w378" offset="2328" sent="17">to</wf>
+    <wf id="w379" offset="2331" sent="17">become</wf>
+    <wf id="w380" offset="2338" sent="17">a</wf>
+    <wf id="w381" offset="2340" sent="17">major</wf>
+    <wf id="w382" offset="2346" sent="17">economic</wf>
+    <wf id="w383" offset="2355" sent="17">as</wf>
+    <wf id="w384" offset="2358" sent="17">well</wf>
+    <wf id="w385" offset="2363" sent="17">as</wf>
+    <wf id="w386" offset="2366" sent="17">technological</wf>
+    <wf id="w387" offset="2380" sent="17">power</wf>
+    <wf id="w388" offset="2386" sent="17">,</wf>
+    <wf id="w389" offset="2388" sent="17">Oil_Ministry</wf>
+    <wf id="w390" offset="2401" sent="17">spokesman</wf>
+    <wf id="w391" offset="2411" sent="17">Assam</wf>
+    <wf id="w392" offset="2417" sent="17">Jihad</wf>
+    <wf id="w393" offset="2423" sent="17">said</wf>
+    <wf id="w394" offset="2428" sent="17">.</wf>
+    <wf id="w395" offset="2430" sent="18">We</wf>
+    <wf id="w396" offset="2433" sent="18">feel</wf>
+    <wf id="w397" offset="2438" sent="18">confident</wf>
+    <wf id="w398" offset="2448" sent="18">that</wf>
+    <wf id="w399" offset="2453" sent="18">the</wf>
+    <wf id="w400" offset="2457" sent="18">Chinese</wf>
+    <wf id="w401" offset="2465" sent="18">company</wf>
+    <wf id="w402" offset="2473" sent="18">will</wf>
+    <wf id="w403" offset="2478" sent="18">be</wf>
+    <wf id="w404" offset="2481" sent="18">on</wf>
+    <wf id="w405" offset="2484" sent="18">par</wf>
+    <wf id="w406" offset="2488" sent="18">with</wf>
+    <wf id="w407" offset="2493" sent="18">its</wf>
+    <wf id="w408" offset="2497" sent="18">competitors</wf>
+    <wf id="w409" offset="2509" sent="18">and</wf>
+    <wf id="w410" offset="2513" sent="18">will</wf>
+    <wf id="w411" offset="2518" sent="18">deliver</wf>
+    <wf id="w412" offset="2526" sent="18">on</wf>
+    <wf id="w413" offset="2529" sent="18">its</wf>
+    <wf id="w414" offset="2533" sent="18">commitments</wf>
+    <wf id="w415" offset="2545" sent="18">towards</wf>
+    <wf id="w416" offset="2553" sent="18">Iraq</wf>
+    <wf id="w417" offset="2558" sent="18">.</wf>
+    <wf id="w418" offset="2560" sent="19">Companies</wf>
+    <wf id="w419" offset="2570" sent="19">pre-selected</wf>
+    <wf id="w420" offset="2583" sent="19">to</wf>
+    <wf id="w421" offset="2586" sent="19">submit</wf>
+    <wf id="w422" offset="2593" sent="19">bids</wf>
+    <wf id="w423" offset="2598" sent="19">made</wf>
+    <wf id="w424" offset="2603" sent="19">offers</wf>
+    <wf id="w425" offset="2610" sent="19">that</wf>
+    <wf id="w426" offset="2615" sent="19">were</wf>
+    <wf id="w427" offset="2620" sent="19">then</wf>
+    <wf id="w428" offset="2625" sent="19">compared</wf>
+    <wf id="w429" offset="2634" sent="19">to</wf>
+    <wf id="w430" offset="2637" sent="19">the</wf>
+    <wf id="w431" offset="2641" sent="19">per</wf>
+    <wf id="w432" offset="2645" sent="19">barrel</wf>
+    <wf id="w433" offset="2652" sent="19">fee</wf>
+    <wf id="w434" offset="2656" sent="19">the</wf>
+    <wf id="w435" offset="2660" sent="19">ministry</wf>
+    <wf id="w436" offset="2669" sent="19">was</wf>
+    <wf id="w437" offset="2673" sent="19">willing</wf>
+    <wf id="w438" offset="2681" sent="19">to</wf>
+    <wf id="w439" offset="2684" sent="19">pay</wf>
+    <wf id="w440" offset="2688" sent="19">for</wf>
+    <wf id="w441" offset="2692" sent="19">boosting</wf>
+    <wf id="w442" offset="2701" sent="19">output</wf>
+    <wf id="w443" offset="2708" sent="19">above</wf>
+    <wf id="w444" offset="2714" sent="19">current</wf>
+    <wf id="w445" offset="2722" sent="19">levels</wf>
+    <wf id="w446" offset="2729" sent="19">at</wf>
+    <wf id="w447" offset="2732" sent="19">each</wf>
+    <wf id="w448" offset="2737" sent="19">field</wf>
+    <wf id="w449" offset="2743" sent="19">.</wf>
+  </text>
+  <terms>
+    <term id="t1" pos="NE" lemma="iraqi_oil_ministry">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s001.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="ministry_of_oil_(iraq)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00954326n"/>
+      </externalReferences>
+    </term>
+    <term id="t2" pos="VVZ" lemma="reach">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" pos="NNS" lemma="deal">
+      <span>
+        <target id="w3"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s001.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="deal%1:10:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008568n"/>
+      </externalReferences>
+    </term>
+    <term id="t4" pos="IN" lemma="with">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" pos="CD" lemma="@card@">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" pos="JJ" lemma="foreign">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" pos="N" lemma="oil_company">
+      <span>
+        <target id="w7"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s001.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil_company%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058745n"/>
+      </externalReferences>
+    </term>
+    <term id="t8" pos="IN" lemma="despite">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" pos="NNS" lemma="concern">
+      <span>
+        <target id="w9"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="concern%1:09:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021556n"/>
+      </externalReferences>
+    </term>
+    <term id="t10" pos="IN" lemma="about">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" pos="NN" lemma="violence">
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="violence%1:26:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00080036n"/>
+      </externalReferences>
+    </term>
+    <term id="t12" pos="CC" lemma="and">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" pos="JJ" lemma="political">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" pos="NN" lemma="instability">
+      <span>
+        <target id="w14"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="instability%1:07:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00046933n"/>
+      </externalReferences>
+    </term>
+    <term id="t15" pos="," lemma=",">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" pos="DT" lemma="the">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" pos="JJ" lemma="Iraqi">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" pos="NN" lemma="government">
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="government%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="government"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="regime"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00007299n"/>
+      </externalReferences>
+    </term>
+    <term id="t19" pos="VVD" lemma="manage">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" pos="TO" lemma="to">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" pos="VV" lemma="attract">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" pos="JJ" lemma="major">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" pos="N" lemma="oil_company">
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil_company%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058745n"/>
+      </externalReferences>
+    </term>
+    <term id="t24" pos="TO" lemma="to">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" pos="VV" lemma="rebuild">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" pos="PP$" lemma="its">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" pos="JJ" lemma="ailing">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" pos="NN" lemma="infrastructure">
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="infrastructure%1:06:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="infrastructure"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008794n"/>
+      </externalReferences>
+    </term>
+    <term id="t29" pos="IN" lemma="during">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" pos="CD" lemma="two">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" pos="NNS" lemma="auction">
+      <span>
+        <target id="w31"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="auction%1:04:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="auction"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00007085n"/>
+      </externalReferences>
+    </term>
+    <term id="t32" pos="WDT" lemma="that">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" pos="VVD" lemma="conclude">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" pos="NP" lemma="Saturday">
+      <span>
+        <target id="w34"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s002.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="saturday%1:28:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="saturday"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00068696n"/>
+      </externalReferences>
+    </term>
+    <term id="t35" pos="SENT" lemma=".">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" pos="DT" lemma="the">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" pos="CD" lemma="@card@">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" pos="NNS" lemma="deal">
+      <span>
+        <target id="w38"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="deal%1:10:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008568n"/>
+      </externalReferences>
+    </term>
+    <term id="t39" pos="DT" lemma="the">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" pos="NE" lemma="iraqi_oil_ministry">
+      <span>
+        <target id="w40"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="ministry_of_oil_(iraq)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00954326n"/>
+      </externalReferences>
+    </term>
+    <term id="t41" pos="VVD" lemma="reach">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" pos="IN" lemma="with">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" pos="JJ" lemma="foreign">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" pos="N" lemma="oil_company">
+      <span>
+        <target id="w44"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil_company%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058745n"/>
+      </externalReferences>
+    </term>
+    <term id="t45" pos="VVP" lemma="suggest">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" pos="IN/that" lemma="that">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" pos="NP" lemma="China">
+      <span>
+        <target id="w47"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="china%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="cathay"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="china"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016756n"/>
+      </externalReferences>
+    </term>
+    <term id="t48" pos="," lemma=",">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" pos="NP" lemma="Russia">
+      <span>
+        <target id="w49"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="russia%1:15:04::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="russia"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00068622n"/>
+      </externalReferences>
+    </term>
+    <term id="t50" pos="CC" lemma="and">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" pos="JJ" lemma="European">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" pos="NN" lemma="oil">
+      <span>
+        <target id="w52"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil%1:27:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="petroleum"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00024112n"/>
+      </externalReferences>
+    </term>
+    <term id="t53" pos="NNS" lemma="firm">
+      <span>
+        <target id="w53"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="firm%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014160n"/>
+      </externalReferences>
+    </term>
+    <term id="t54" pos="VBP" lemma="be">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" pos="VVN" lemma="poise">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" pos="TO" lemma="to">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" pos="VV" lemma="play">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" pos="DT" lemma="a">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" pos="JJ" lemma="major">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" pos="NN" lemma="role">
+      <span>
+        <target id="w60"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="role%1:04:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00036823n"/>
+      </externalReferences>
+    </term>
+    <term id="t61" pos="IN" lemma="in">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" pos="VVG" lemma="refurbish">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" pos="NP" lemma="Iraq">
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t009"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="iraq%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iraq"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002362n"/>
+      </externalReferences>
+    </term>
+    <term id="t64" pos="POS" lemma="'s">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" pos="N" lemma="oil_industry">
+      <span>
+        <target id="w65"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t010"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil_industry%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="petroleum_industry"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058741n"/>
+      </externalReferences>
+    </term>
+    <term id="t66" pos="," lemma=",">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" pos="VVN" lemma="cripple">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" pos="IN" lemma="by">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" pos="NNS" lemma="decade">
+      <span>
+        <target id="w69"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t011"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="decade%1:28:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="decade"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025646n"/>
+      </externalReferences>
+    </term>
+    <term id="t70" pos="IN" lemma="of">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" pos="NN" lemma="war">
+      <span>
+        <target id="w71"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t012"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="war%1:04:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="war"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00080439n"/>
+      </externalReferences>
+    </term>
+    <term id="t72" pos="CC" lemma="and">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" pos="NNS" lemma="sanction">
+      <span>
+        <target id="w73"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s003.t013"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="sanction%1:04:02::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="economic_sanctions"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03144393n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00069122n"/>
+      </externalReferences>
+    </term>
+    <term id="t74" pos="SENT" lemma=".">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" pos="JJ" lemma="American">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" pos="NNS" lemma="company">
+      <span>
+        <target id="w76"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s004.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t77" pos="VVD" lemma="walk">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" pos="RB" lemma="away">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" pos="IN" lemma="with">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" pos="NNS" lemma="stake">
+      <span>
+        <target id="w80"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s004.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="stake%1:21:02::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00047081n"/>
+      </externalReferences>
+    </term>
+    <term id="t81" pos="IN" lemma="in">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" pos="RB" lemma="just">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" pos="CD" lemma="two">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" pos="IN" lemma="of">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" pos="DT" lemma="the">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" pos="CD" lemma="@card@">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" pos="VVN" lemma="auction">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" pos="NNS" lemma="field">
+      <span>
+        <target id="w88"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s004.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="field%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="field_(agriculture)"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="oil_field"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034265n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058774n"/>
+      </externalReferences>
+    </term>
+    <term id="t89" pos="SENT" lemma=".">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" pos="CD" lemma="Seven">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" pos="JJ" lemma="American">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" pos="NNS" lemma="company">
+      <span>
+        <target id="w92"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s005.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t93" pos="VHD" lemma="have">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" pos="VVN" lemma="pay">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" pos="TO" lemma="to">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" pos="VV" lemma="participate">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" pos="IN" lemma="in">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" pos="DT" lemma="the">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" pos="JJ" lemma="second">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" pos="NN" lemma="auction">
+      <span>
+        <target id="w100"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s005.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="auction%1:04:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="auction"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00007085n"/>
+      </externalReferences>
+    </term>
+    <term id="t101" pos="," lemma=",">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" pos="WDT" lemma="which">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" pos="VVD" lemma="begin">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" pos="NP" lemma="Friday">
+      <span>
+        <target id="w104"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s005.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="friday%1:28:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="friday"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00036512n"/>
+      </externalReferences>
+    </term>
+    <term id="t105" pos="SENT" lemma=".">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" pos="DT" lemma="the">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" pos="JJ" lemma="only">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" pos="CD" lemma="one">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" pos="WDT" lemma="that">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" pos="VVD" lemma="submit">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" pos="DT" lemma="a">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" pos="NN" lemma="bid">
+      <span>
+        <target id="w112"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s006.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="bid%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bidding"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00010262n"/>
+      </externalReferences>
+    </term>
+    <term id="t113" pos="VVD" lemma="lose">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" pos="SENT" lemma=".">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" pos="CD" lemma="Two">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" pos="JJ" lemma="American">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" pos="NNS" lemma="company">
+      <span>
+        <target id="w117"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s007.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t118" pos="VVD" lemma="reach">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" pos="NNS" lemma="deal">
+      <span>
+        <target id="w119"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s007.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="deal%1:04:02::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014152n"/>
+      </externalReferences>
+    </term>
+    <term id="t120" pos="IN" lemma="for">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" pos="NNS" lemma="field">
+      <span>
+        <target id="w121"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s007.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="field%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="field_(agriculture)"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="oil_field"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034265n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058774n"/>
+      </externalReferences>
+    </term>
+    <term id="t122" pos="VVN" lemma="auction">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" pos="IN" lemma="in">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" pos="NP" lemma="June">
+      <span>
+        <target id="w124"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s007.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="june%1:28:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="june"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048592n"/>
+      </externalReferences>
+    </term>
+    <term id="t125" pos="SENT" lemma=".">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" pos="DT" lemma="the">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" pos="JJ" lemma="meager">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" pos="NN" lemma="representation">
+      <span>
+        <target id="w128"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s008.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="representation%1:04:01::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00067192n"/>
+      </externalReferences>
+    </term>
+    <term id="t129" pos="IN" lemma="of">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" pos="JJ" lemma="American">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" pos="NN" lemma="oil">
+      <span>
+        <target id="w131"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s008.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil%1:27:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="petroleum"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00024112n"/>
+      </externalReferences>
+    </term>
+    <term id="t132" pos="NNS" lemma="giant">
+      <span>
+        <target id="w132"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s008.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="giant%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00040387n"/>
+      </externalReferences>
+    </term>
+    <term id="t133" pos="IN" lemma="in">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" pos="NP" lemma="Iraq">
+      <span>
+        <target id="w134"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s008.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="iraq%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iraq"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002362n"/>
+      </externalReferences>
+    </term>
+    <term id="t135" pos="POS" lemma="'s">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" pos="VVG" lemma="open">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" pos="N" lemma="oil_industry">
+      <span>
+        <target id="w137"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s008.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil_industry%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="petroleum_industry"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058741n"/>
+      </externalReferences>
+    </term>
+    <term id="t138" pos="JJ" lemma="surprised">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" pos="NNS" lemma="analyst">
+      <span>
+        <target id="w139"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s008.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="analyst%1:18:02::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003802n"/>
+      </externalReferences>
+    </term>
+    <term id="t140" pos="SENT" lemma=".">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" pos="NP" lemma="Iraq">
+      <span>
+        <target id="w141"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="iraq%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iraq"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002362n"/>
+      </externalReferences>
+    </term>
+    <term id="t142" pos="RB" lemma="finally">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" pos="VVD" lemma="open">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" pos="PP$" lemma="its">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" pos="NNS" lemma="door">
+      <span>
+        <target id="w145"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="door%1:07:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00028249n"/>
+      </externalReferences>
+    </term>
+    <term id="t146" pos="IN" lemma="after">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" pos="CD" lemma="six">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" pos="NNS" lemma="year">
+      <span>
+        <target id="w148"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="year%1:28:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="year"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078738n"/>
+      </externalReferences>
+    </term>
+    <term id="t149" pos="IN" lemma="of">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term id="t150" pos="NN" lemma="war">
+      <span>
+        <target id="w150"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="war%1:04:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="war"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00080439n"/>
+      </externalReferences>
+    </term>
+    <term id="t151" pos="," lemma=",">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term id="t152" pos="CC" lemma="and">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" pos="RB" lemma="instead">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+    <term id="t154" pos="IN" lemma="of">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term id="t155" pos="NP" lemma="U.S.">
+      <span>
+        <target id="w155"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="u.s.%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="united_states"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t156" pos="NNS" lemma="company">
+      <span>
+        <target id="w156"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t157" pos="," lemma=",">
+      <span>
+        <target id="w157"/>
+      </span>
+    </term>
+    <term id="t158" pos="PP" lemma="you">
+      <span>
+        <target id="w158"/>
+      </span>
+    </term>
+    <term id="t159" pos="VHP" lemma="have">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term id="t160" pos="NPS" lemma="Asians">
+      <span>
+        <target id="w160"/>
+      </span>
+    </term>
+    <term id="t161" pos="CC" lemma="and">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term id="t162" pos="NPS" lemma="Europeans">
+      <span>
+        <target id="w162"/>
+      </span>
+    </term>
+    <term id="t163" pos="VVG" lemma="lead">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+    <term id="t164" pos="DT" lemma="the">
+      <span>
+        <target id="w164"/>
+      </span>
+    </term>
+    <term id="t165" pos="NN" lemma="way">
+      <span>
+        <target id="w165"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="way%1:04:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00061005n"/>
+      </externalReferences>
+    </term>
+    <term id="t166" pos="," lemma=",">
+      <span>
+        <target id="w166"/>
+      </span>
+    </term>
+    <term id="t167" pos="VVD" lemma="say">
+      <span>
+        <target id="w167"/>
+      </span>
+    </term>
+    <term id="t168" pos="NP" lemma="Ruba">
+      <span>
+        <target id="w168"/>
+      </span>
+    </term>
+    <term id="t169" pos="NP" lemma="Husari">
+      <span>
+        <target id="w169"/>
+      </span>
+    </term>
+    <term id="t170" pos="," lemma=",">
+      <span>
+        <target id="w170"/>
+      </span>
+    </term>
+    <term id="t171" pos="DT" lemma="the">
+      <span>
+        <target id="w171"/>
+      </span>
+    </term>
+    <term id="t172" pos="NN" lemma="editor">
+      <span>
+        <target id="w172"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="editor%1:18:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="editor-in-chief"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00029774n"/>
+      </externalReferences>
+    </term>
+    <term id="t173" pos="IN" lemma="of">
+      <span>
+        <target id="w173"/>
+      </span>
+    </term>
+    <term id="t174" pos="NP" lemma="iraq">
+      <span>
+        <target id="w174"/>
+      </span>
+    </term>
+    <term id="t175" pos="NP" lemma="oil">
+      <span>
+        <target id="w175"/>
+      </span>
+    </term>
+    <term id="t176" pos="NP" lemma="Forum">
+      <span>
+        <target id="w176"/>
+      </span>
+    </term>
+    <term id="t177" pos="," lemma=",">
+      <span>
+        <target id="w177"/>
+      </span>
+    </term>
+    <term id="t178" pos="DT" lemma="an">
+      <span>
+        <target id="w178"/>
+      </span>
+    </term>
+    <term id="t179" pos="JJ" lemma="online">
+      <span>
+        <target id="w179"/>
+      </span>
+    </term>
+    <term id="t180" pos="NN" lemma="news">
+      <span>
+        <target id="w180"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t009"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="news%1:10:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="news"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00057546n"/>
+      </externalReferences>
+    </term>
+    <term id="t181" pos="NN" lemma="outlet">
+      <span>
+        <target id="w181"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s009.t010"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="outlet%1:06:01::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00054409n"/>
+      </externalReferences>
+    </term>
+    <term id="t182" pos="SENT" lemma=".">
+      <span>
+        <target id="w182"/>
+      </span>
+    </term>
+    <term id="t183" pos="PP" lemma="it">
+      <span>
+        <target id="w183"/>
+      </span>
+    </term>
+    <term id="t184" pos="MD" lemma="will">
+      <span>
+        <target id="w184"/>
+      </span>
+    </term>
+    <term id="t185" pos="VB" lemma="be">
+      <span>
+        <target id="w185"/>
+      </span>
+    </term>
+    <term id="t186" pos="DT" lemma="a">
+      <span>
+        <target id="w186"/>
+      </span>
+    </term>
+    <term id="t187" pos="N" lemma="long_time">
+      <span>
+        <target id="w187"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s010.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="long_time%1:28:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00001939n"/>
+      </externalReferences>
+    </term>
+    <term id="t188" pos="IN" lemma="before">
+      <span>
+        <target id="w188"/>
+      </span>
+    </term>
+    <term id="t189" pos="NN" lemma="anything">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term id="t190" pos="RB" lemma="else">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term id="t191" pos="MD" lemma="will">
+      <span>
+        <target id="w191"/>
+      </span>
+    </term>
+    <term id="t192" pos="VB" lemma="be">
+      <span>
+        <target id="w192"/>
+      </span>
+    </term>
+    <term id="t193" pos="IN" lemma="on">
+      <span>
+        <target id="w193"/>
+      </span>
+    </term>
+    <term id="t194" pos="NN" lemma="offer">
+      <span>
+        <target id="w194"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s010.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="offer%1:10:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058679n"/>
+      </externalReferences>
+    </term>
+    <term id="t195" pos="IN" lemma="in">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term id="t196" pos="NP" lemma="Iraq">
+      <span>
+        <target id="w196"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s010.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="iraq%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iraq"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002362n"/>
+      </externalReferences>
+    </term>
+    <term id="t197" pos="SENT" lemma=".">
+      <span>
+        <target id="w197"/>
+      </span>
+    </term>
+    <term id="t198" pos="NNS" lemma="concern">
+      <span>
+        <target id="w198"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="concern%1:09:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021556n"/>
+      </externalReferences>
+    </term>
+    <term id="t199" pos="IN" lemma="over">
+      <span>
+        <target id="w199"/>
+      </span>
+    </term>
+    <term id="t200" pos="NN" lemma="security">
+      <span>
+        <target id="w200"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="security%1:26:00::"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="security%1:04:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00070219n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00070225n"/>
+      </externalReferences>
+    </term>
+    <term id="t201" pos="," lemma=",">
+      <span>
+        <target id="w201"/>
+      </span>
+    </term>
+    <term id="t202" pos="VVN" lemma="underscore">
+      <span>
+        <target id="w202"/>
+      </span>
+    </term>
+    <term id="t203" pos="IN" lemma="by">
+      <span>
+        <target id="w203"/>
+      </span>
+    </term>
+    <term id="t204" pos="JJ" lemma="massive">
+      <span>
+        <target id="w204"/>
+      </span>
+    </term>
+    <term id="t205" pos="VVN" lemma="coordinate">
+      <span>
+        <target id="w205"/>
+      </span>
+    </term>
+    <term id="t206" pos="NNS" lemma="bombing">
+      <span>
+        <target id="w206"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="bombing%1:04:01::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00011946n"/>
+      </externalReferences>
+    </term>
+    <term id="t207" pos="NP" lemma="Tuesday">
+      <span>
+        <target id="w207"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="tuesday%1:28:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tuesday"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078546n"/>
+      </externalReferences>
+    </term>
+    <term id="t208" pos="," lemma=",">
+      <span>
+        <target id="w208"/>
+      </span>
+    </term>
+    <term id="t209" pos="CC" lemma="and">
+      <span>
+        <target id="w209"/>
+      </span>
+    </term>
+    <term id="t210" pos="JJ" lemma="political">
+      <span>
+        <target id="w210"/>
+      </span>
+    </term>
+    <term id="t211" pos="NN" lemma="instability">
+      <span>
+        <target id="w211"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="instability%1:07:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00046933n"/>
+      </externalReferences>
+    </term>
+    <term id="t212" pos="IN" lemma="as">
+      <span>
+        <target id="w212"/>
+      </span>
+    </term>
+    <term id="t213" pos="DT" lemma="the">
+      <span>
+        <target id="w213"/>
+      </span>
+    </term>
+    <term id="t214" pos="NP" lemma="U.S.">
+      <span>
+        <target id="w214"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="u.s.%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="united_states"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t215" pos="NN" lemma="military">
+      <span>
+        <target id="w215"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="military%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="military_branch"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="military"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="armed_forces"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005732n"/>
+      </externalReferences>
+    </term>
+    <term id="t216" pos="VVZ" lemma="withdraw">
+      <span>
+        <target id="w216"/>
+      </span>
+    </term>
+    <term id="t217" pos="," lemma=",">
+      <span>
+        <target id="w217"/>
+      </span>
+    </term>
+    <term id="t218" pos="RB" lemma="likely">
+      <span>
+        <target id="w218"/>
+      </span>
+    </term>
+    <term id="t219" pos="VVD" lemma="keep">
+      <span>
+        <target id="w219"/>
+      </span>
+    </term>
+    <term id="t220" pos="JJ" lemma="American">
+      <span>
+        <target id="w220"/>
+      </span>
+    </term>
+    <term id="t221" pos="N" lemma="oil_company">
+      <span>
+        <target id="w221"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="oil_company%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058745n"/>
+      </externalReferences>
+    </term>
+    <term id="t222" pos="IN" lemma="from">
+      <span>
+        <target id="w222"/>
+      </span>
+    </term>
+    <term id="t223" pos="VVG" lemma="venture">
+      <span>
+        <target id="w223"/>
+      </span>
+    </term>
+    <term id="t224" pos="RBR" lemma="more">
+      <span>
+        <target id="w224"/>
+      </span>
+    </term>
+    <term id="t225" pos="RB" lemma="forcefully">
+      <span>
+        <target id="w225"/>
+      </span>
+    </term>
+    <term id="t226" pos="IN" lemma="in">
+      <span>
+        <target id="w226"/>
+      </span>
+    </term>
+    <term id="t227" pos="NP" lemma="Iraq">
+      <span>
+        <target id="w227"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t009"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="iraq%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iraq"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002362n"/>
+      </externalReferences>
+    </term>
+    <term id="t228" pos="," lemma=",">
+      <span>
+        <target id="w228"/>
+      </span>
+    </term>
+    <term id="t229" pos="WDT" lemma="which">
+      <span>
+        <target id="w229"/>
+      </span>
+    </term>
+    <term id="t230" pos="VHZ" lemma="have">
+      <span>
+        <target id="w230"/>
+      </span>
+    </term>
+    <term id="t231" pos="DT" lemma="the">
+      <span>
+        <target id="w231"/>
+      </span>
+    </term>
+    <term id="t232" pos="NN" lemma="world">
+      <span>
+        <target id="w232"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t010"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="world%1:17:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="earth"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00029424n"/>
+      </externalReferences>
+    </term>
+    <term id="t233" pos="POS" lemma="'s">
+      <span>
+        <target id="w233"/>
+      </span>
+    </term>
+    <term id="t234" pos="JJS" lemma="third-largest">
+      <span>
+        <target id="w234"/>
+      </span>
+    </term>
+    <term id="t235" pos="JJ" lemma="proven">
+      <span>
+        <target id="w235"/>
+      </span>
+    </term>
+    <term id="t236" pos="JJ" lemma="crude">
+      <span>
+        <target id="w236"/>
+      </span>
+    </term>
+    <term id="t237" pos="NNS" lemma="reserve">
+      <span>
+        <target id="w237"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t011"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="reserve%1:21:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00007805n"/>
+      </externalReferences>
+    </term>
+    <term id="t238" pos="," lemma=",">
+      <span>
+        <target id="w238"/>
+      </span>
+    </term>
+    <term id="t239" pos="NNS" lemma="analyst">
+      <span>
+        <target id="w239"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s011.t012"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="analyst%1:18:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003801n"/>
+      </externalReferences>
+    </term>
+    <term id="t240" pos="VVD" lemma="say">
+      <span>
+        <target id="w240"/>
+      </span>
+    </term>
+    <term id="t241" pos="SENT" lemma=".">
+      <span>
+        <target id="w241"/>
+      </span>
+    </term>
+    <term id="t242" pos="NP" lemma="U.S.">
+      <span>
+        <target id="w242"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="u.s.%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="united_states"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t243" pos="NNS" lemma="firm">
+      <span>
+        <target id="w243"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="firm%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014160n"/>
+      </externalReferences>
+    </term>
+    <term id="t244" pos="VBD" lemma="be">
+      <span>
+        <target id="w244"/>
+      </span>
+    </term>
+    <term id="t245" pos="IN" lemma="in">
+      <span>
+        <target id="w245"/>
+      </span>
+    </term>
+    <term id="t246" pos="DT" lemma="some">
+      <span>
+        <target id="w246"/>
+      </span>
+    </term>
+    <term id="t247" pos="NNS" lemma="case">
+      <span>
+        <target id="w247"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="case%1:11:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016401n"/>
+      </externalReferences>
+    </term>
+    <term id="t248" pos="IN" lemma="at">
+      <span>
+        <target id="w248"/>
+      </span>
+    </term>
+    <term id="t249" pos="DT" lemma="a">
+      <span>
+        <target id="w249"/>
+      </span>
+    </term>
+    <term id="t250" pos="NN" lemma="disadvantage">
+      <span>
+        <target id="w250"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="disadvantage%1:07:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00027415n"/>
+      </externalReferences>
+    </term>
+    <term id="t251" pos="IN" lemma="because">
+      <span>
+        <target id="w251"/>
+      </span>
+    </term>
+    <term id="t252" pos="NNS" lemma="rival">
+      <span>
+        <target id="w252"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="rival%1:18:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00017562n"/>
+      </externalReferences>
+    </term>
+    <term id="t253" pos="," lemma=",">
+      <span>
+        <target id="w253"/>
+      </span>
+    </term>
+    <term id="t254" pos="RB" lemma="particularly">
+      <span>
+        <target id="w254"/>
+      </span>
+    </term>
+    <term id="t255" pos="DT" lemma="the">
+      <span>
+        <target id="w255"/>
+      </span>
+    </term>
+    <term id="t256" pos="JJ" lemma="Chinese">
+      <span>
+        <target id="w256"/>
+      </span>
+    </term>
+    <term id="t257" pos="CC" lemma="and">
+      <span>
+        <target id="w257"/>
+      </span>
+    </term>
+    <term id="t258" pos="JJ" lemma="other">
+      <span>
+        <target id="w258"/>
+      </span>
+    </term>
+    <term id="t259" pos="NN" lemma="government">
+      <span>
+        <target id="w259"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="government%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="government"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="regime"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00007299n"/>
+      </externalReferences>
+    </term>
+    <term id="t260" pos="VVN" lemma="control">
+      <span>
+        <target id="w260"/>
+      </span>
+    </term>
+    <term id="t261" pos="NN" lemma="energy">
+      <span>
+        <target id="w261"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="energy%1:19:01::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030825n"/>
+      </externalReferences>
+    </term>
+    <term id="t262" pos="NNS" lemma="firm">
+      <span>
+        <target id="w262"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="firm%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014160n"/>
+      </externalReferences>
+    </term>
+    <term id="t263" pos="," lemma=",">
+      <span>
+        <target id="w263"/>
+      </span>
+    </term>
+    <term id="t264" pos="VHP" lemma="have">
+      <span>
+        <target id="w264"/>
+      </span>
+    </term>
+    <term id="t265" pos="RB" lemma="markedly">
+      <span>
+        <target id="w265"/>
+      </span>
+    </term>
+    <term id="t266" pos="JJR" lemma="low">
+      <span>
+        <target id="w266"/>
+      </span>
+    </term>
+    <term id="t267" pos="NN" lemma="labor_cost">
+      <span>
+        <target id="w267"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t009"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="salary"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="remuneration"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wage"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00029416n"/>
+      </externalReferences>
+    </term>
+    <term id="t268" pos="CC" lemma="and">
+      <span>
+        <target id="w268"/>
+      </span>
+    </term>
+    <term id="t269" pos="VBP" lemma="be">
+      <span>
+        <target id="w269"/>
+      </span>
+    </term>
+    <term id="t270" pos="RBR" lemma="more">
+      <span>
+        <target id="w270"/>
+      </span>
+    </term>
+    <term id="t271" pos="JJ" lemma="prone">
+      <span>
+        <target id="w271"/>
+      </span>
+    </term>
+    <term id="t272" pos="TO" lemma="to">
+      <span>
+        <target id="w272"/>
+      </span>
+    </term>
+    <term id="t273" pos="VV" lemma="take">
+      <span>
+        <target id="w273"/>
+      </span>
+    </term>
+    <term id="t274" pos="NNS" lemma="risk">
+      <span>
+        <target id="w274"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t010"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="risk%1:26:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="hazard"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="risk"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030747n"/>
+      </externalReferences>
+    </term>
+    <term id="t275" pos="IN" lemma="because">
+      <span>
+        <target id="w275"/>
+      </span>
+    </term>
+    <term id="t276" pos="PP" lemma="they">
+      <span>
+        <target id="w276"/>
+      </span>
+    </term>
+    <term id="t277" pos="VVP" lemma="do">
+      <span>
+        <target id="w277"/>
+      </span>
+    </term>
+    <term id="t278" pos="RB" lemma="n't">
+      <span>
+        <target id="w278"/>
+      </span>
+    </term>
+    <term id="t279" pos="VV" lemma="respond">
+      <span>
+        <target id="w279"/>
+      </span>
+    </term>
+    <term id="t280" pos="TO" lemma="to">
+      <span>
+        <target id="w280"/>
+      </span>
+    </term>
+    <term id="t281" pos="NNS" lemma="shareholder">
+      <span>
+        <target id="w281"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s012.t011"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="shareholder%1:18:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="shareholder"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00070914n"/>
+      </externalReferences>
+    </term>
+    <term id="t282" pos="SENT" lemma=".">
+      <span>
+        <target id="w282"/>
+      </span>
+    </term>
+    <term id="t283" pos="NE" lemma="Exxon-Mobil">
+      <span>
+        <target id="w283"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s013.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="exxonmobil"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01144567n"/>
+      </externalReferences>
+    </term>
+    <term id="t284" pos="CC" lemma="and">
+      <span>
+        <target id="w284"/>
+      </span>
+    </term>
+    <term id="t285" pos="NE" lemma="occidental_petroleum">
+      <span>
+        <target id="w285"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s013.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="occidental_petroleum"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03601154n"/>
+      </externalReferences>
+    </term>
+    <term id="t286" pos="NP" lemma="Inc.">
+      <span>
+        <target id="w286"/>
+      </span>
+    </term>
+    <term id="t287" pos="VBD" lemma="be">
+      <span>
+        <target id="w287"/>
+      </span>
+    </term>
+    <term id="t288" pos="DT" lemma="the">
+      <span>
+        <target id="w288"/>
+      </span>
+    </term>
+    <term id="t289" pos="JJ" lemma="only">
+      <span>
+        <target id="w289"/>
+      </span>
+    </term>
+    <term id="t290" pos="JJ" lemma="American">
+      <span>
+        <target id="w290"/>
+      </span>
+    </term>
+    <term id="t291" pos="NNS" lemma="company">
+      <span>
+        <target id="w291"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s013.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t292" pos="WDT" lemma="that">
+      <span>
+        <target id="w292"/>
+      </span>
+    </term>
+    <term id="t293" pos="VVD" lemma="reach">
+      <span>
+        <target id="w293"/>
+      </span>
+    </term>
+    <term id="t294" pos="NNS" lemma="deal">
+      <span>
+        <target id="w294"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s013.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="deal%1:10:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008568n"/>
+      </externalReferences>
+    </term>
+    <term id="t295" pos="IN" lemma="with">
+      <span>
+        <target id="w295"/>
+      </span>
+    </term>
+    <term id="t296" pos="DT" lemma="the">
+      <span>
+        <target id="w296"/>
+      </span>
+    </term>
+    <term id="t297" pos="NN" lemma="ministry">
+      <span>
+        <target id="w297"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s013.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="ministry%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="ministry_(government_department)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00055180n"/>
+      </externalReferences>
+    </term>
+    <term id="t298" pos="SENT" lemma=".">
+      <span>
+        <target id="w298"/>
+      </span>
+    </term>
+    <term id="t299" pos="JJ" lemma="major">
+      <span>
+        <target id="w299"/>
+      </span>
+    </term>
+    <term id="t300" pos="NP" lemma="U.S.">
+      <span>
+        <target id="w300"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="u.s.%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="united_states"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t301" pos="NNS" lemma="firm">
+      <span>
+        <target id="w301"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="firm%1:14:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014160n"/>
+      </externalReferences>
+    </term>
+    <term id="t302" pos="JJ" lemma="such">
+      <span>
+        <target id="w302"/>
+      </span>
+    </term>
+    <term id="t303" pos="IN" lemma="as">
+      <span>
+        <target id="w303"/>
+      </span>
+    </term>
+    <term id="t304" pos="NP" lemma="Chevron">
+      <span>
+        <target id="w304"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="chevron_corporation"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02215273n"/>
+      </externalReferences>
+    </term>
+    <term id="t305" pos="CC" lemma="and">
+      <span>
+        <target id="w305"/>
+      </span>
+    </term>
+    <term id="t306" pos="NP" lemma="ConocoPhillips">
+      <span>
+        <target id="w306"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="conocophillips"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02552785n"/>
+      </externalReferences>
+    </term>
+    <term id="t307" pos="," lemma=",">
+      <span>
+        <target id="w307"/>
+      </span>
+    </term>
+    <term id="t308" pos="WDT" lemma="which">
+      <span>
+        <target id="w308"/>
+      </span>
+    </term>
+    <term id="t309" pos="VHP" lemma="have">
+      <span>
+        <target id="w309"/>
+      </span>
+    </term>
+    <term id="t310" pos="VVN" lemma="cultivate">
+      <span>
+        <target id="w310"/>
+      </span>
+    </term>
+    <term id="t311" pos="JJ" lemma="close">
+      <span>
+        <target id="w311"/>
+      </span>
+    </term>
+    <term id="t312" pos="NNS" lemma="tie">
+      <span>
+        <target id="w312"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="tie%1:11:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tie_(draw)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00028625n"/>
+      </externalReferences>
+    </term>
+    <term id="t313" pos="IN" lemma="with">
+      <span>
+        <target id="w313"/>
+      </span>
+    </term>
+    <term id="t314" pos="DT" lemma="the">
+      <span>
+        <target id="w314"/>
+      </span>
+    </term>
+    <term id="t315" pos="NE" lemma="iraqi_oil_ministry">
+      <span>
+        <target id="w315"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="ministry_of_oil_(iraq)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00954326n"/>
+      </externalReferences>
+    </term>
+    <term id="t316" pos="CC" lemma="and">
+      <span>
+        <target id="w316"/>
+      </span>
+    </term>
+    <term id="t317" pos="VHP" lemma="have">
+      <span>
+        <target id="w317"/>
+      </span>
+    </term>
+    <term id="t318" pos="VVN" lemma="provide">
+      <span>
+        <target id="w318"/>
+      </span>
+    </term>
+    <term id="t319" pos="JJ" lemma="technical">
+      <span>
+        <target id="w319"/>
+      </span>
+    </term>
+    <term id="t320" pos="NN" lemma="advice">
+      <span>
+        <target id="w320"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="advice%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="advice_(opinion)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00001592n"/>
+      </externalReferences>
+    </term>
+    <term id="t321" pos="IN" lemma="in">
+      <span>
+        <target id="w321"/>
+      </span>
+    </term>
+    <term id="t322" pos="JJ" lemma="recent">
+      <span>
+        <target id="w322"/>
+      </span>
+    </term>
+    <term id="t323" pos="NNS" lemma="year">
+      <span>
+        <target id="w323"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s014.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="year%1:28:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="year"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078738n"/>
+      </externalReferences>
+    </term>
+    <term id="t324" pos="," lemma=",">
+      <span>
+        <target id="w324"/>
+      </span>
+    </term>
+    <term id="t325" pos="VVD" lemma="walk">
+      <span>
+        <target id="w325"/>
+      </span>
+    </term>
+    <term id="t326" pos="RB" lemma="away">
+      <span>
+        <target id="w326"/>
+      </span>
+    </term>
+    <term id="t327" pos="JJ" lemma="empty-handed">
+      <span>
+        <target id="w327"/>
+      </span>
+    </term>
+    <term id="t328" pos="SENT" lemma=".">
+      <span>
+        <target id="w328"/>
+      </span>
+    </term>
+    <term id="t329" pos="JJ" lemma="Russian">
+      <span>
+        <target id="w329"/>
+      </span>
+    </term>
+    <term id="t330" pos="NNS" lemma="company">
+      <span>
+        <target id="w330"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s015.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t331" pos="NP" lemma="Lukoil">
+      <span>
+        <target id="w331"/>
+      </span>
+    </term>
+    <term id="t332" pos="CC" lemma="and">
+      <span>
+        <target id="w332"/>
+      </span>
+    </term>
+    <term id="t333" pos="NP" lemma="Gazprom">
+      <span>
+        <target id="w333"/>
+      </span>
+    </term>
+    <term id="t334" pos="VBD" lemma="be">
+      <span>
+        <target id="w334"/>
+      </span>
+    </term>
+    <term id="t335" pos="DT" lemma="the">
+      <span>
+        <target id="w335"/>
+      </span>
+    </term>
+    <term id="t336" pos="JJ" lemma="top">
+      <span>
+        <target id="w336"/>
+      </span>
+    </term>
+    <term id="t337" pos="NNS" lemma="stakeholder">
+      <span>
+        <target id="w337"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s015.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="stakeholder_(corporate)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03883152n"/>
+      </externalReferences>
+    </term>
+    <term id="t338" pos="IN" lemma="in">
+      <span>
+        <target id="w338"/>
+      </span>
+    </term>
+    <term id="t339" pos="CD" lemma="two">
+      <span>
+        <target id="w339"/>
+      </span>
+    </term>
+    <term id="t340" pos="IN" lemma="of">
+      <span>
+        <target id="w340"/>
+      </span>
+    </term>
+    <term id="t341" pos="DT" lemma="the">
+      <span>
+        <target id="w341"/>
+      </span>
+    </term>
+    <term id="t342" pos="NNS" lemma="contract">
+      <span>
+        <target id="w342"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s015.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="contract%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="contract"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00022227n"/>
+      </externalReferences>
+    </term>
+    <term id="t343" pos="VVD" lemma="award">
+      <span>
+        <target id="w343"/>
+      </span>
+    </term>
+    <term id="t344" pos="DT" lemma="this">
+      <span>
+        <target id="w344"/>
+      </span>
+    </term>
+    <term id="t345" pos="NN" lemma="weekend">
+      <span>
+        <target id="w345"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s015.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="weekend%1:28:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="workweek_and_weekend"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00080816n"/>
+      </externalReferences>
+    </term>
+    <term id="t346" pos="SENT" lemma=".">
+      <span>
+        <target id="w346"/>
+      </span>
+    </term>
+    <term id="t347" pos="JJ" lemma="state-owned">
+      <span>
+        <target id="w347"/>
+      </span>
+    </term>
+    <term id="t348" pos="NE" lemma="China_National_Petroleum_Corporation">
+      <span>
+        <target id="w348"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="china_national_petroleum_corporation"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02002659n"/>
+      </externalReferences>
+    </term>
+    <term id="t349" pos="NN" lemma="bid">
+      <span>
+        <target id="w349"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="bid%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bidding"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00010262n"/>
+      </externalReferences>
+    </term>
+    <term id="t350" pos="IN" lemma="on">
+      <span>
+        <target id="w350"/>
+      </span>
+    </term>
+    <term id="t351" pos="JJR" lemma="more">
+      <span>
+        <target id="w351"/>
+      </span>
+    </term>
+    <term id="t352" pos="NNS" lemma="contract">
+      <span>
+        <target id="w352"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="contract%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="contract"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00022227n"/>
+      </externalReferences>
+    </term>
+    <term id="t353" pos="IN" lemma="than">
+      <span>
+        <target id="w353"/>
+      </span>
+    </term>
+    <term id="t354" pos="DT" lemma="any">
+      <span>
+        <target id="w354"/>
+      </span>
+    </term>
+    <term id="t355" pos="JJ" lemma="other">
+      <span>
+        <target id="w355"/>
+      </span>
+    </term>
+    <term id="t356" pos="NN" lemma="company">
+      <span>
+        <target id="w356"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t357" pos="CC" lemma="and">
+      <span>
+        <target id="w357"/>
+      </span>
+    </term>
+    <term id="t358" pos="VVD" lemma="walk">
+      <span>
+        <target id="w358"/>
+      </span>
+    </term>
+    <term id="t359" pos="RB" lemma="away">
+      <span>
+        <target id="w359"/>
+      </span>
+    </term>
+    <term id="t360" pos="IN" lemma="with">
+      <span>
+        <target id="w360"/>
+      </span>
+    </term>
+    <term id="t361" pos="JJ" lemma="large">
+      <span>
+        <target id="w361"/>
+      </span>
+    </term>
+    <term id="t362" pos="NNS" lemma="stake">
+      <span>
+        <target id="w362"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="stake%1:21:02::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00047081n"/>
+      </externalReferences>
+    </term>
+    <term id="t363" pos="IN" lemma="in">
+      <span>
+        <target id="w363"/>
+      </span>
+    </term>
+    <term id="t364" pos="NNS" lemma="contract">
+      <span>
+        <target id="w364"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="contract%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="contract"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00022227n"/>
+      </externalReferences>
+    </term>
+    <term id="t365" pos="IN" lemma="for">
+      <span>
+        <target id="w365"/>
+      </span>
+    </term>
+    <term id="t366" pos="CD" lemma="two">
+      <span>
+        <target id="w366"/>
+      </span>
+    </term>
+    <term id="t367" pos="JJ" lemma="major">
+      <span>
+        <target id="w367"/>
+      </span>
+    </term>
+    <term id="t368" pos="NNS" lemma="field">
+      <span>
+        <target id="w368"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s016.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="field%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="field_(agriculture)"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="oil_field"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034265n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058774n"/>
+      </externalReferences>
+    </term>
+    <term id="t369" pos="SENT" lemma=".">
+      <span>
+        <target id="w369"/>
+      </span>
+    </term>
+    <term id="t370" pos="PP" lemma="we">
+      <span>
+        <target id="w370"/>
+      </span>
+    </term>
+    <term id="t371" pos="RB" lemma="all">
+      <span>
+        <target id="w371"/>
+      </span>
+    </term>
+    <term id="t372" pos="VVP" lemma="know">
+      <span>
+        <target id="w372"/>
+      </span>
+    </term>
+    <term id="t373" pos="IN/that" lemma="that">
+      <span>
+        <target id="w373"/>
+      </span>
+    </term>
+    <term id="t374" pos="NP" lemma="China">
+      <span>
+        <target id="w374"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s017.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="china%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="cathay"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="china"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016756n"/>
+      </externalReferences>
+    </term>
+    <term id="t375" pos="VBZ" lemma="be">
+      <span>
+        <target id="w375"/>
+      </span>
+    </term>
+    <term id="t376" pos="IN" lemma="on">
+      <span>
+        <target id="w376"/>
+      </span>
+    </term>
+    <term id="t377" pos="NN" lemma="track">
+      <span>
+        <target id="w377"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s017.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="track%1:17:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023288n"/>
+      </externalReferences>
+    </term>
+    <term id="t378" pos="TO" lemma="to">
+      <span>
+        <target id="w378"/>
+      </span>
+    </term>
+    <term id="t379" pos="VV" lemma="become">
+      <span>
+        <target id="w379"/>
+      </span>
+    </term>
+    <term id="t380" pos="DT" lemma="a">
+      <span>
+        <target id="w380"/>
+      </span>
+    </term>
+    <term id="t381" pos="JJ" lemma="major">
+      <span>
+        <target id="w381"/>
+      </span>
+    </term>
+    <term id="t382" pos="JJ" lemma="economic">
+      <span>
+        <target id="w382"/>
+      </span>
+    </term>
+    <term id="t383" pos="RB" lemma="as">
+      <span>
+        <target id="w383"/>
+      </span>
+    </term>
+    <term id="t384" pos="RB" lemma="well">
+      <span>
+        <target id="w384"/>
+      </span>
+    </term>
+    <term id="t385" pos="IN" lemma="as">
+      <span>
+        <target id="w385"/>
+      </span>
+    </term>
+    <term id="t386" pos="JJ" lemma="technological">
+      <span>
+        <target id="w386"/>
+      </span>
+    </term>
+    <term id="t387" pos="NN" lemma="power">
+      <span>
+        <target id="w387"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s017.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="power%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="great_power"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00041585n"/>
+      </externalReferences>
+    </term>
+    <term id="t388" pos="," lemma=",">
+      <span>
+        <target id="w388"/>
+      </span>
+    </term>
+    <term id="t389" pos="NE" lemma="oil_ministry">
+      <span>
+        <target id="w389"/>
+      </span>
+    </term>
+    <term id="t390" pos="NN" lemma="spokesman">
+      <span>
+        <target id="w390"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s017.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="spokesman%1:18:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="spokesperson"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00073526n"/>
+      </externalReferences>
+    </term>
+    <term id="t391" pos="NP" lemma="Assam">
+      <span>
+        <target id="w391"/>
+      </span>
+    </term>
+    <term id="t392" pos="NP" lemma="Jihad">
+      <span>
+        <target id="w392"/>
+      </span>
+    </term>
+    <term id="t393" pos="VVD" lemma="say">
+      <span>
+        <target id="w393"/>
+      </span>
+    </term>
+    <term id="t394" pos="SENT" lemma=".">
+      <span>
+        <target id="w394"/>
+      </span>
+    </term>
+    <term id="t395" pos="PP" lemma="we">
+      <span>
+        <target id="w395"/>
+      </span>
+    </term>
+    <term id="t396" pos="VVP" lemma="feel">
+      <span>
+        <target id="w396"/>
+      </span>
+    </term>
+    <term id="t397" pos="JJ" lemma="confident">
+      <span>
+        <target id="w397"/>
+      </span>
+    </term>
+    <term id="t398" pos="IN/that" lemma="that">
+      <span>
+        <target id="w398"/>
+      </span>
+    </term>
+    <term id="t399" pos="DT" lemma="the">
+      <span>
+        <target id="w399"/>
+      </span>
+    </term>
+    <term id="t400" pos="JJ" lemma="Chinese">
+      <span>
+        <target id="w400"/>
+      </span>
+    </term>
+    <term id="t401" pos="NN" lemma="company">
+      <span>
+        <target id="w401"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s018.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t402" pos="MD" lemma="will">
+      <span>
+        <target id="w402"/>
+      </span>
+    </term>
+    <term id="t403" pos="VB" lemma="be">
+      <span>
+        <target id="w403"/>
+      </span>
+    </term>
+    <term id="t404" pos="IN" lemma="on">
+      <span>
+        <target id="w404"/>
+      </span>
+    </term>
+    <term id="t405" pos="NN" lemma="par">
+      <span>
+        <target id="w405"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s018.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="par%1:26:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00031285n"/>
+      </externalReferences>
+    </term>
+    <term id="t406" pos="IN" lemma="with">
+      <span>
+        <target id="w406"/>
+      </span>
+    </term>
+    <term id="t407" pos="PP$" lemma="its">
+      <span>
+        <target id="w407"/>
+      </span>
+    </term>
+    <term id="t408" pos="NNS" lemma="competitor">
+      <span>
+        <target id="w408"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s018.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="competitor%1:18:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00017562n"/>
+      </externalReferences>
+    </term>
+    <term id="t409" pos="CC" lemma="and">
+      <span>
+        <target id="w409"/>
+      </span>
+    </term>
+    <term id="t410" pos="MD" lemma="will">
+      <span>
+        <target id="w410"/>
+      </span>
+    </term>
+    <term id="t411" pos="VV" lemma="deliver">
+      <span>
+        <target id="w411"/>
+      </span>
+    </term>
+    <term id="t412" pos="IN" lemma="on">
+      <span>
+        <target id="w412"/>
+      </span>
+    </term>
+    <term id="t413" pos="PP$" lemma="its">
+      <span>
+        <target id="w413"/>
+      </span>
+    </term>
+    <term id="t414" pos="NNS" lemma="commitment">
+      <span>
+        <target id="w414"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s018.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="commitment%1:04:02::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021034n"/>
+      </externalReferences>
+    </term>
+    <term id="t415" pos="IN" lemma="towards">
+      <span>
+        <target id="w415"/>
+      </span>
+    </term>
+    <term id="t416" pos="NP" lemma="Iraq">
+      <span>
+        <target id="w416"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s018.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="iraq%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iraq"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002362n"/>
+      </externalReferences>
+    </term>
+    <term id="t417" pos="SENT" lemma=".">
+      <span>
+        <target id="w417"/>
+      </span>
+    </term>
+    <term id="t418" pos="NNS" lemma="company">
+      <span>
+        <target id="w418"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t001"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="company%1:14:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="company"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021286n"/>
+      </externalReferences>
+    </term>
+    <term id="t419" pos="JJ" lemma="pre-selected">
+      <span>
+        <target id="w419"/>
+      </span>
+    </term>
+    <term id="t420" pos="TO" lemma="to">
+      <span>
+        <target id="w420"/>
+      </span>
+    </term>
+    <term id="t421" pos="VV" lemma="submit">
+      <span>
+        <target id="w421"/>
+      </span>
+    </term>
+    <term id="t422" pos="NNS" lemma="bid">
+      <span>
+        <target id="w422"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t002"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="bid%1:10:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bidding"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00010262n"/>
+      </externalReferences>
+    </term>
+    <term id="t423" pos="VVN" lemma="make">
+      <span>
+        <target id="w423"/>
+      </span>
+    </term>
+    <term id="t424" pos="NNS" lemma="offer">
+      <span>
+        <target id="w424"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t003"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="offer%1:10:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058679n"/>
+      </externalReferences>
+    </term>
+    <term id="t425" pos="WDT" lemma="that">
+      <span>
+        <target id="w425"/>
+      </span>
+    </term>
+    <term id="t426" pos="VBD" lemma="be">
+      <span>
+        <target id="w426"/>
+      </span>
+    </term>
+    <term id="t427" pos="RB" lemma="then">
+      <span>
+        <target id="w427"/>
+      </span>
+    </term>
+    <term id="t428" pos="VVN" lemma="compare">
+      <span>
+        <target id="w428"/>
+      </span>
+    </term>
+    <term id="t429" pos="TO" lemma="to">
+      <span>
+        <target id="w429"/>
+      </span>
+    </term>
+    <term id="t430" pos="DT" lemma="the">
+      <span>
+        <target id="w430"/>
+      </span>
+    </term>
+    <term id="t431" pos="FW" lemma="per">
+      <span>
+        <target id="w431"/>
+      </span>
+    </term>
+    <term id="t432" pos="NN" lemma="barrel">
+      <span>
+        <target id="w432"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t004"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="barrel%1:23:01::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="barrel_(unit)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008694n"/>
+      </externalReferences>
+    </term>
+    <term id="t433" pos="NN" lemma="fee">
+      <span>
+        <target id="w433"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t005"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="fee%1:21:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fee"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00033939n"/>
+      </externalReferences>
+    </term>
+    <term id="t434" pos="DT" lemma="the">
+      <span>
+        <target id="w434"/>
+      </span>
+    </term>
+    <term id="t435" pos="NN" lemma="ministry">
+      <span>
+        <target id="w435"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t006"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="ministry%1:14:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="ministry_(government_department)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00055180n"/>
+      </externalReferences>
+    </term>
+    <term id="t436" pos="VBD" lemma="be">
+      <span>
+        <target id="w436"/>
+      </span>
+    </term>
+    <term id="t437" pos="JJ" lemma="willing">
+      <span>
+        <target id="w437"/>
+      </span>
+    </term>
+    <term id="t438" pos="TO" lemma="to">
+      <span>
+        <target id="w438"/>
+      </span>
+    </term>
+    <term id="t439" pos="VV" lemma="pay">
+      <span>
+        <target id="w439"/>
+      </span>
+    </term>
+    <term id="t440" pos="IN" lemma="for">
+      <span>
+        <target id="w440"/>
+      </span>
+    </term>
+    <term id="t441" pos="VVG" lemma="boost">
+      <span>
+        <target id="w441"/>
+      </span>
+    </term>
+    <term id="t442" pos="NN" lemma="output">
+      <span>
+        <target id="w442"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t007"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="output%1:04:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="output_(economics)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00059788n"/>
+      </externalReferences>
+    </term>
+    <term id="t443" pos="IN" lemma="above">
+      <span>
+        <target id="w443"/>
+      </span>
+    </term>
+    <term id="t444" pos="JJ" lemma="current">
+      <span>
+        <target id="w444"/>
+      </span>
+    </term>
+    <term id="t445" pos="NNS" lemma="level">
+      <span>
+        <target id="w445"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t008"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="level%1:07:00::"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025965n"/>
+      </externalReferences>
+    </term>
+    <term id="t446" pos="IN" lemma="at">
+      <span>
+        <target id="w446"/>
+      </span>
+    </term>
+    <term id="t447" pos="DT" lemma="each">
+      <span>
+        <target id="w447"/>
+      </span>
+    </term>
+    <term id="t448" pos="NN" lemma="field">
+      <span>
+        <target id="w448"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d004.s019.t009"/>
+        <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="field%1:15:00::"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="field_(agriculture)"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="oil_field"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034265n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00058774n"/>
+      </externalReferences>
+    </term>
+    <term id="t449" pos="SENT" lemma=".">
+      <span>
+        <target id="w449"/>
+      </span>
+    </term>
+  </terms>
+</NAF>

@@ -9,6 +9,8 @@ Available you can find:
 * SensEval2: traditional all-words task
 * SenseEval3: traditional all-words task
 * SemEval-2010 task 17: WSD on a specific domain
+* SemEval-2007 task 17 all words
+* SemEval-2013 Task 12: Multilingual Word Sense Disambiguation (langs en,es,fr,it,de)
 
 ##Contact##
 * Ruben Izquierdo
