@@ -2,11 +2,11 @@
 <NAF xml:lang="en" version="1.0    ">
   <nafHeader>
     <linguisticProcessors layer="text">
-      <lp name="SemEval2010_task17" timestamp="2015-01-13T11:35:42CET" beginTimestamp="2015-01-13T11:35:42CET" endTimestamp="2015-01-13T11:35:42CET" version="1.0"/>
+      <lp name="SemEval2010_task17" timestamp="2015-01-13T12:03:12CET" beginTimestamp="2015-01-13T12:03:12CET" endTimestamp="2015-01-13T12:03:12CET" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="terms">
-      <lp name="ixa-pipe-pos-en" beginTimestamp="2015-01-13T11:35:51+0100" endTimestamp="2015-01-13T11:35:52+0100" version="1.0.0"/>
-      <lp name="SemEval2010_task17" version="1.0" timestamp="2015-01-13T11:35:53CET" beginTimestamp="2015-01-13T11:35:53CET" endTimestamp="2015-01-13T11:35:53CET" hostname="kyoto"/>
+      <lp name="ixa-pipe-pos-en" beginTimestamp="2015-01-13T12:03:25+0100" endTimestamp="2015-01-13T12:03:25+0100" version="1.0.0"/>
+      <lp name="SemEval2010_task17" version="1.0" timestamp="2015-01-13T12:03:26CET" beginTimestamp="2015-01-13T12:03:26CET" endTimestamp="2015-01-13T12:03:26CET" hostname="kyoto"/>
     </linguisticProcessors>
   </nafHeader>
   <text>
