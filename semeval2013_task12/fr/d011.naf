@@ -2,10 +2,10 @@
 <NAF xml:lang="fr" version="1.0">
   <nafHeader>
     <linguisticProcessors layer="text">
-      <lp name="SemEval2013_task#12_tokens" version="1.0" timestamp="2015-01-12T12:44:27CET" beginTimestamp="2015-01-12T12:44:27CET" endTimestamp="2015-01-12T12:44:27CET" hostname="kyoto"/>
+      <lp name="SemEval2013_task#12_tokens" version="1.0" timestamp="2015-01-13T13:55:38CET" beginTimestamp="2015-01-13T13:55:38CET" endTimestamp="2015-01-13T13:55:38CET" hostname="kyoto"/>
     </linguisticProcessors>
     <linguisticProcessors layer="terms">
-      <lp name="SemEval2013_task#12_terms" version="1.0" timestamp="2015-01-12T12:44:27CET" beginTimestamp="2015-01-12T12:44:27CET" endTimestamp="2015-01-12T12:44:27CET" hostname="kyoto"/>
+      <lp name="SemEval2013_task#12_terms" version="1.0" timestamp="2015-01-13T13:55:38CET" beginTimestamp="2015-01-13T13:55:38CET" endTimestamp="2015-01-13T13:55:38CET" hostname="kyoto"/>
     </linguisticProcessors>
   </nafHeader>
   <text>
