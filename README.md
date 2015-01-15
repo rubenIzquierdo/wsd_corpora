@@ -5,7 +5,7 @@ Corpora used in WSD annotated with senses and converted to NAF format
 
 Available you can find:
 
-* SemCor
+* SemCor (with WordNet senses 1.6 and 3.0)
 * SensEval2: traditional all-words task
 * SenseEval3: traditional all-words task
 * SemEval-2010 task 17: WSD on a specific domain
