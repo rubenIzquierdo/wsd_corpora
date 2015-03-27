@@ -1881,7 +1881,7 @@
         <target id="w184"/>
       </span>
     </term>
-    <term id="t185" pos="IN/that" lemma="that">
+    <term id="t185" pos="IN" lemma="that">
       <span>
         <target id="w185"/>
       </span>
@@ -3753,7 +3753,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048488n"/>
       </externalReferences>
     </term>
-    <term id="t479" pos="IN/that" lemma="that">
+    <term id="t479" pos="IN" lemma="that">
       <span>
         <target id="w479"/>
       </span>
@@ -4450,7 +4450,7 @@
         <target id="w588"/>
       </span>
     </term>
-    <term id="t589" pos="IN/that" lemma="that">
+    <term id="t589" pos="IN" lemma="that">
       <span>
         <target id="w589"/>
       </span>
@@ -4779,7 +4779,7 @@
         <target id="w642"/>
       </span>
     </term>
-    <term id="t643" pos="IN/that" lemma="that">
+    <term id="t643" pos="IN" lemma="that">
       <span>
         <target id="w643"/>
       </span>

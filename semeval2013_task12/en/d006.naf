@@ -1812,7 +1812,7 @@
         <target id="w146"/>
       </span>
     </term>
-    <term id="t147" pos="IN/that" lemma="that">
+    <term id="t147" pos="IN" lemma="that">
       <span>
         <target id="w147"/>
       </span>
@@ -2014,7 +2014,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00026622n"/>
       </externalReferences>
     </term>
-    <term id="t179" pos="IN/that" lemma="that">
+    <term id="t179" pos="IN" lemma="that">
       <span>
         <target id="w179"/>
       </span>
@@ -2302,7 +2302,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025170n"/>
       </externalReferences>
     </term>
-    <term id="t225" pos="IN/that" lemma="that">
+    <term id="t225" pos="IN" lemma="that">
       <span>
         <target id="w225"/>
       </span>
@@ -2611,7 +2611,7 @@
         <target id="w273"/>
       </span>
     </term>
-    <term id="t274" pos="IN/that" lemma="that">
+    <term id="t274" pos="IN" lemma="that">
       <span>
         <target id="w274"/>
       </span>
@@ -2663,7 +2663,7 @@
         <target id="w282"/>
       </span>
     </term>
-    <term id="t283" pos="IN/that" lemma="that">
+    <term id="t283" pos="IN" lemma="that">
       <span>
         <target id="w283"/>
       </span>
@@ -3180,7 +3180,7 @@
         <target id="w360"/>
       </span>
     </term>
-    <term id="t361" pos="IN/that" lemma="that">
+    <term id="t361" pos="IN" lemma="that">
       <span>
         <target id="w361"/>
       </span>
@@ -3545,7 +3545,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005600n"/>
       </externalReferences>
     </term>
-    <term id="t416" pos="IN/that" lemma="that">
+    <term id="t416" pos="IN" lemma="that">
       <span>
         <target id="w416"/>
       </span>
@@ -4038,7 +4038,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00045800n"/>
       </externalReferences>
     </term>
-    <term id="t492" pos="IN/that" lemma="that">
+    <term id="t492" pos="IN" lemma="that">
       <span>
         <target id="w492"/>
       </span>
@@ -4771,7 +4771,7 @@
         <target id="w613"/>
       </span>
     </term>
-    <term id="t614" pos="IN/that" lemma="that">
+    <term id="t614" pos="IN" lemma="that">
       <span>
         <target id="w614"/>
       </span>
@@ -4858,7 +4858,7 @@
         <target id="w627"/>
       </span>
     </term>
-    <term id="t628" pos="IN/that" lemma="that">
+    <term id="t628" pos="IN" lemma="that">
       <span>
         <target id="w628"/>
       </span>
@@ -5226,7 +5226,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014710n"/>
       </externalReferences>
     </term>
-    <term id="t686" pos="IN/that" lemma="that">
+    <term id="t686" pos="IN" lemma="that">
       <span>
         <target id="w686"/>
       </span>
@@ -5398,7 +5398,7 @@
         <target id="w710"/>
       </span>
     </term>
-    <term id="t711" pos="IN/that" lemma="that">
+    <term id="t711" pos="IN" lemma="that">
       <span>
         <target id="w711"/>
       </span>
@@ -5818,7 +5818,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00019404n"/>
       </externalReferences>
     </term>
-    <term id="t775" pos="IN/that" lemma="that">
+    <term id="t775" pos="IN" lemma="that">
       <span>
         <target id="w775"/>
       </span>
@@ -6060,7 +6060,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005600n"/>
       </externalReferences>
     </term>
-    <term id="t812" pos="IN/that" lemma="that">
+    <term id="t812" pos="IN" lemma="that">
       <span>
         <target id="w812"/>
       </span>
@@ -6369,7 +6369,7 @@
         <target id="w860"/>
       </span>
     </term>
-    <term id="t861" pos="IN/that" lemma="that">
+    <term id="t861" pos="IN" lemma="that">
       <span>
         <target id="w861"/>
       </span>

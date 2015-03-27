@@ -1261,7 +1261,7 @@
         <target id="w82"/>
       </span>
     </term>
-    <term id="t83" pos="IN/that" lemma="that">
+    <term id="t83" pos="IN" lemma="that">
       <span>
         <target id="w83"/>
       </span>
@@ -1613,7 +1613,7 @@
         <target id="w138"/>
       </span>
     </term>
-    <term id="t139" pos="IN/that" lemma="that">
+    <term id="t139" pos="IN" lemma="that">
       <span>
         <target id="w139"/>
       </span>
@@ -1792,7 +1792,7 @@
         <target id="w167"/>
       </span>
     </term>
-    <term id="t168" pos="IN/that" lemma="that">
+    <term id="t168" pos="IN" lemma="that">
       <span>
         <target id="w168"/>
       </span>
@@ -2396,7 +2396,7 @@
         <target id="w260"/>
       </span>
     </term>
-    <term id="t261" pos="IN/that" lemma="that">
+    <term id="t261" pos="IN" lemma="that">
       <span>
         <target id="w261"/>
       </span>
@@ -3234,7 +3234,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00009717n"/>
       </externalReferences>
     </term>
-    <term id="t390" pos="IN/that" lemma="that">
+    <term id="t390" pos="IN" lemma="that">
       <span>
         <target id="w390"/>
       </span>
@@ -3378,7 +3378,7 @@
         <target id="w412"/>
       </span>
     </term>
-    <term id="t413" pos="IN/that" lemma="that">
+    <term id="t413" pos="IN" lemma="that">
       <span>
         <target id="w413"/>
       </span>
@@ -4012,7 +4012,7 @@
         <target id="w511"/>
       </span>
     </term>
-    <term id="t512" pos="IN/that" lemma="that">
+    <term id="t512" pos="IN" lemma="that">
       <span>
         <target id="w512"/>
       </span>
@@ -4131,7 +4131,7 @@
         <target id="w530"/>
       </span>
     </term>
-    <term id="t531" pos="IN/that" lemma="that">
+    <term id="t531" pos="IN" lemma="that">
       <span>
         <target id="w531"/>
       </span>
@@ -4334,7 +4334,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00032654n"/>
       </externalReferences>
     </term>
-    <term id="t564" pos="IN/that" lemma="that">
+    <term id="t564" pos="IN" lemma="that">
       <span>
         <target id="w564"/>
       </span>
@@ -4810,7 +4810,7 @@
         <target id="w631"/>
       </span>
     </term>
-    <term id="t632" pos="IN/that" lemma="that">
+    <term id="t632" pos="IN" lemma="that">
       <span>
         <target id="w632"/>
       </span>

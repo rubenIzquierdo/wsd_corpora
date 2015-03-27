@@ -944,7 +944,7 @@
     <wf id="w933" offset="5708" sent="28">into</wf>
     <wf id="w934" offset="5713" sent="28">the</wf>
     <wf id="w935" offset="5717" sent="28">big_leagues</wf>
-    <wf id="w936" offset="5729" sent="28">,</wf>
+    <wf id="w936" offmet="5729" sent="28">,</wf>
     <wf id="w937" offset="5731" sent="28">said</wf>
     <wf id="w938" offset="5736" sent="28">Carlos_Manuel_Rodriguez</wf>
     <wf id="w939" offset="5760" sent="28">,</wf>
@@ -2120,7 +2120,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00067923n"/>
       </externalReferences>
     </term>
-    <term id="t180" pos="IN/that" lemma="that">
+    <term id="t180" pos="IN" lemma="that">
       <span>
         <target id="w180"/>
       </span>
@@ -3564,7 +3564,7 @@
         <target id="w405"/>
       </span>
     </term>
-    <term id="t406" pos="IN/that" lemma="that">
+    <term id="t406" pos="IN" lemma="that">
       <span>
         <target id="w406"/>
       </span>
@@ -3837,7 +3837,7 @@
         <target id="w448"/>
       </span>
     </term>
-    <term id="t449" pos="IN/that" lemma="that">
+    <term id="t449" pos="IN" lemma="that">
       <span>
         <target id="w449"/>
       </span>
@@ -4174,7 +4174,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014711n"/>
       </externalReferences>
     </term>
-    <term id="t503" pos="IN/that" lemma="that">
+    <term id="t503" pos="IN" lemma="that">
       <span>
         <target id="w503"/>
       </span>
@@ -4618,7 +4618,7 @@
         <target id="w570"/>
       </span>
     </term>
-    <term id="t571" pos="IN/that" lemma="that">
+    <term id="t571" pos="IN" lemma="that">
       <span>
         <target id="w571"/>
       </span>
@@ -4808,7 +4808,7 @@
         <target id="w601"/>
       </span>
     </term>
-    <term id="t602" pos="IN/that" lemma="that">
+    <term id="t602" pos="IN" lemma="that">
       <span>
         <target id="w602"/>
       </span>
@@ -5989,7 +5989,7 @@
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00032654n"/>
       </externalReferences>
     </term>
-    <term id="t790" pos="IN/that" lemma="that">
+    <term id="t790" pos="IN" lemma="that">
       <span>
         <target id="w790"/>
       </span>

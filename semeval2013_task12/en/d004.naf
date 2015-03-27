@@ -760,7 +760,7 @@
         <target id="w45"/>
       </span>
     </term>
-    <term id="t46" pos="IN/that" lemma="that">
+    <term id="t46" pos="IN" lemma="that">
       <span>
         <target id="w46"/>
       </span>
@@ -2897,7 +2897,7 @@
         <target id="w372"/>
       </span>
     </term>
-    <term id="t373" pos="IN/that" lemma="that">
+    <term id="t373" pos="IN" lemma="that">
       <span>
         <target id="w373"/>
       </span>
@@ -3046,7 +3046,7 @@
         <target id="w397"/>
       </span>
     </term>
-    <term id="t398" pos="IN/that" lemma="that">
+    <term id="t398" pos="IN" lemma="that">
       <span>
         <target id="w398"/>
       </span>
