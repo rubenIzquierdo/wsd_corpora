@@ -906,6 +906,7 @@
         <target id="w2"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01185611-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s001.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeal%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appeal"/>
@@ -952,6 +953,7 @@
         <target id="w9"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-13744722-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s002.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="half_a_dozen%1:23:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="6_(number)"/>
@@ -993,6 +995,7 @@
         <target id="w16"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03120778-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s002.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="courtroom%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="courtroom"/>
@@ -1004,6 +1007,7 @@
         <target id="w17"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08431437-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s002.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="row%1:14:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00068424n"/>
@@ -1054,6 +1058,7 @@
         <target id="w26"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06681551-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s003.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="report%1:10:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000739n"/>
@@ -1074,6 +1079,7 @@
         <target id="w29"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06734467-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s003.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="testimony%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="testimony"/>
@@ -1115,6 +1121,7 @@
         <target id="w35"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07291794-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="end%1:11:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030720n"/>
@@ -1135,6 +1142,7 @@
         <target id="w38"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08064523-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="defense%1:14:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025872n"/>
@@ -1190,6 +1198,7 @@
         <target id="w47"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06253690-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="message%1:10:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="message"/>
@@ -1211,6 +1220,7 @@
         <target id="w50"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -1237,6 +1247,7 @@
         <target id="w54"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00773402-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="rape%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="rape"/>
@@ -1253,6 +1264,7 @@
         <target id="w56"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09917593-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="child%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="child"/>
@@ -1280,6 +1292,7 @@
         <target id="w60"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-02818832-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="bed%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bed"/>
@@ -1301,6 +1314,7 @@
         <target id="w63"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03544360-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s004.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="house%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="house"/>
@@ -1342,6 +1356,7 @@
         <target id="w70"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15164354-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="thursday%1:28:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="thursday"/>
@@ -1373,6 +1388,7 @@
         <target id="w75"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -1429,6 +1445,7 @@
         <target id="w85"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10307234-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="member%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034004n"/>
@@ -1469,6 +1486,7 @@
         <target id="w92"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08078020-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="family%1:14:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="household"/>
@@ -1520,6 +1538,7 @@
         <target id="w101"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15266911-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="end%1:28:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030719n"/>
@@ -1540,6 +1559,7 @@
         <target id="w104"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10225219-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="judge%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="judge"/>
@@ -1556,6 +1576,7 @@
         <target id="w106"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01127623-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="imposition%1:04:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00046148n"/>
@@ -1606,6 +1627,7 @@
         <target id="w114"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08414119-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s005.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="jury%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jury"/>
@@ -1627,6 +1649,7 @@
         <target id="w117"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10249950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawyer"/>
@@ -1668,6 +1691,7 @@
         <target id="w124"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08329453-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tribunal"/>
@@ -1679,6 +1703,7 @@
         <target id="w125"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07167954-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="filing%1:10:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034444n"/>
@@ -1704,6 +1729,7 @@
         <target id="w129"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01185611-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeal%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appeal"/>
@@ -1715,6 +1741,7 @@
         <target id="w130"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06648724-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="argument%1:10:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005600n"/>
@@ -1755,6 +1782,7 @@
         <target id="w137"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08329453-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tribunal"/>
@@ -1771,6 +1799,7 @@
         <target id="w139"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15203791-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s006.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="year%1:28:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="year"/>
@@ -1832,6 +1861,7 @@
         <target id="w150"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06683784-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="reporting%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="reportage"/>
@@ -1853,6 +1883,7 @@
         <target id="w153"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -1879,6 +1910,7 @@
         <target id="w157"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10521662-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="reporter%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00057562n"/>
@@ -1899,6 +1931,7 @@
         <target id="w160"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00947128-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="use%1:04:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030627n"/>
@@ -1944,6 +1977,7 @@
         <target id="w167"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00552679-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="circus%1:04:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016140n"/>
@@ -1954,6 +1988,7 @@
         <target id="w168"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-14524849-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="atmosphere%1:26:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003263n"/>
@@ -2009,6 +2044,7 @@
         <target id="w178"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05817845-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="detail%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00026622n"/>
@@ -2029,6 +2065,7 @@
         <target id="w181"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08414119-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="jury%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jury"/>
@@ -2065,6 +2102,7 @@
         <target id="w187"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07480896-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s007.t010"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="passion%1:12:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="passion_(emotion)"/>
@@ -2086,6 +2124,7 @@
         <target id="w190"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06730563-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s008.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="claim%1:10:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="proposition"/>
@@ -2107,6 +2146,7 @@
         <target id="w193"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01185611-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s008.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeal%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appeal"/>
@@ -2118,6 +2158,7 @@
         <target id="w194"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10225219-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s008.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="judge%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="judge"/>
@@ -2149,6 +2190,7 @@
         <target id="w199"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06783768-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s008.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="question%1:10:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00043267n"/>
@@ -2189,6 +2231,7 @@
         <target id="w206"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03120778-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s008.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="courtroom%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="courtroom"/>
@@ -2200,6 +2243,7 @@
         <target id="w207"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06652242-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s008.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="rule%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="regulation_(law)"/>
@@ -2251,6 +2295,7 @@
         <target id="w216"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -2297,6 +2342,7 @@
         <target id="w224"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-14540765-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="danger%1:26:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025170n"/>
@@ -2317,6 +2363,7 @@
         <target id="w227"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00373130-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="inclusion%1:04:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00046310n"/>
@@ -2352,6 +2399,7 @@
         <target id="w233"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03120778-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="courtroom%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="courtroom"/>
@@ -2378,6 +2426,7 @@
         <target id="w237"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00007846-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="individual%1:03:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="individual"/>
@@ -2400,6 +2449,7 @@
         <target id="w240"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05174653-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="right%1:07:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="rights"/>
@@ -2461,6 +2511,7 @@
         <target id="w251"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10000158-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s009.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="defense_lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="criminal_defense_lawyer"/>
@@ -2482,6 +2533,7 @@
         <target id="w254"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10728523-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial_judge%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078207n"/>
@@ -2517,6 +2569,7 @@
         <target id="w260"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08654360-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="state%1:15:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="province"/>
@@ -2528,6 +2581,7 @@
         <target id="w261"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08335751-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="superior_court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="superior_court"/>
@@ -2559,6 +2613,7 @@
         <target id="w266"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06730563-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="claim%1:10:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="proposition"/>
@@ -2580,6 +2635,7 @@
         <target id="w269"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01191158-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="ruling%1:04:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00059171n"/>
@@ -2595,6 +2651,7 @@
         <target id="w271"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15136147-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="week%1:28:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="seven-day_week"/>
@@ -2626,6 +2683,7 @@
         <target id="w276"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06266417-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="news_media%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="news_media"/>
@@ -2688,6 +2746,7 @@
         <target id="w287"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06733939-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="evidence%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="evidence_(law)"/>
@@ -2704,6 +2763,7 @@
         <target id="w289"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08414119-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="jury%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jury"/>
@@ -2730,6 +2790,7 @@
         <target id="w293"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07480896-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s010.t010"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="passion%1:12:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="passion_(emotion)"/>
@@ -2786,6 +2847,8 @@
         <target id="w303"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06649786-n" reftype="ilidef" resource="WordNet-3.0"/>
+        <externalRef confidence="1.0" reference="ili-30-06412213-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s011.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="last_word%1:10:01::"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="last_word%1:10:00::"/>
@@ -2808,6 +2871,7 @@
         <target id="w306"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05814650-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s011.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="issue%1:09:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00047688n"/>
@@ -2828,6 +2892,7 @@
         <target id="w309"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15204983-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="decade%1:28:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="decade"/>
@@ -2844,6 +2909,7 @@
         <target id="w311"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08330106-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeals_court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appellate_court"/>
@@ -2870,6 +2936,7 @@
         <target id="w315"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06683784-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="coverage%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="reportage"/>
@@ -2891,6 +2958,7 @@
         <target id="w318"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01182654-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="case%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawsuit"/>
@@ -2913,6 +2981,7 @@
         <target id="w321"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06783768-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="question%1:10:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00043267n"/>
@@ -2933,6 +3002,7 @@
         <target id="w324"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -2949,6 +3019,7 @@
         <target id="w326"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06203030-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s012.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="fairness%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00015226n"/>
@@ -2984,6 +3055,7 @@
         <target id="w332"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01191158-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="ruling%1:04:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00059171n"/>
@@ -3004,6 +3076,7 @@
         <target id="w335"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08335886-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="united_states_supreme_court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="supreme_court_of_the_united_states"/>
@@ -3025,6 +3098,7 @@
         <target id="w338"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01189282-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="conviction%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="conviction"/>
@@ -3047,6 +3121,7 @@
         <target id="w341"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09130714-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="cleveland%1:15:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="cleveland"/>
@@ -3058,6 +3133,7 @@
         <target id="w342"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10385566-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="osteopath%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00059674n"/>
@@ -3103,6 +3179,7 @@
         <target id="w349"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00220522-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="murder%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="murder"/>
@@ -3124,6 +3201,7 @@
         <target id="w352"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10780632-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="wife%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wife"/>
@@ -3155,6 +3233,7 @@
         <target id="w357"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05838176-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="decision%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021584n"/>
@@ -3210,6 +3289,7 @@
         <target id="w366"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00552679-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t011"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="carnival%1:04:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016140n"/>
@@ -3220,6 +3300,7 @@
         <target id="w367"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-14524849-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t012"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="atmosphere%1:26:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003263n"/>
@@ -3235,6 +3316,7 @@
         <target id="w369"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t013"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -3266,6 +3348,7 @@
         <target id="w374"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06266417-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s013.t014"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="news_media%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="news_media"/>
@@ -3288,6 +3371,7 @@
         <target id="w377"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00766234-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s014.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="crime%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="crime"/>
@@ -3340,6 +3424,7 @@
         <target id="w386"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05834567-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s014.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="inspiration%1:09:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00046926n"/>
@@ -3360,6 +3445,7 @@
         <target id="w389"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06620579-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s014.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="television_show%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="television_program"/>
@@ -3381,6 +3467,7 @@
         <target id="w392"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06613686-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s014.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="movie%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="film"/>
@@ -3424,6 +3511,7 @@
         <target id="w398"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10249950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawyer"/>
@@ -3440,6 +3528,7 @@
         <target id="w400"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08330106-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeals_court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appellate_court"/>
@@ -3471,6 +3560,7 @@
         <target id="w405"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01189282-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="conviction%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="conviction"/>
@@ -3483,6 +3573,7 @@
         <target id="w406"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-13736799-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="half%1:23:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="one_half"/>
@@ -3499,6 +3590,7 @@
         <target id="w408"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15205532-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="century%1:28:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="century"/>
@@ -3540,6 +3632,7 @@
         <target id="w415"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06648724-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="argument%1:10:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005600n"/>
@@ -3560,6 +3653,7 @@
         <target id="w418"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06652242-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="rule%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="regulation_(law)"/>
@@ -3596,6 +3690,7 @@
         <target id="w424"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-04928903-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="way%1:07:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00033729n"/>
@@ -3621,6 +3716,7 @@
         <target id="w428"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03120778-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="courtroom%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="courtroom"/>
@@ -3647,6 +3743,7 @@
         <target id="w432"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07309599-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t010"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="time%1:11:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00019848n"/>
@@ -3677,6 +3774,7 @@
         <target id="w437"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01182654-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s015.t012"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="case%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawsuit"/>
@@ -3719,6 +3817,7 @@
         <target id="w444"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06740402-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="reason%1:10:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016851n"/>
@@ -3734,6 +3833,7 @@
         <target id="w446"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07524529-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="concern%1:12:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016013n"/>
@@ -3754,6 +3854,7 @@
         <target id="w449"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-11414411-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="impact%1:19:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00046065n"/>
@@ -3799,6 +3900,7 @@
         <target id="w456"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -3850,6 +3952,7 @@
         <target id="w463"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10480730-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="professor%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="professor"/>
@@ -3876,6 +3979,7 @@
         <target id="w467"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09068444-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="connecticut%1:15:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="connecticut"/>
@@ -3887,6 +3991,7 @@
         <target id="w468"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01163779-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t010"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="death_penalty%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="capital_punishment"/>
@@ -3913,6 +4018,7 @@
         <target id="w472"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07218470-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s016.t011"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="report%1:10:03::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="report"/>
@@ -3959,6 +4065,7 @@
         <target id="w480"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10480730-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="professor%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="professor"/>
@@ -3985,6 +4092,7 @@
         <target id="w484"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01185611-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeal%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appeal"/>
@@ -3996,6 +4104,7 @@
         <target id="w485"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10225219-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="judge%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="judge"/>
@@ -4032,6 +4141,7 @@
         <target id="w491"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05833840-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="idea%1:09:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="idea"/>
@@ -4058,6 +4168,7 @@
         <target id="w495"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06252138-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="communication%1:10:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="communication"/>
@@ -4074,6 +4185,7 @@
         <target id="w497"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03120778-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="courtroom%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="courtroom"/>
@@ -4095,6 +4207,7 @@
         <target id="w500"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s017.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -4131,6 +4244,7 @@
         <target id="w505"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05814650-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s018.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="issue%1:09:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00047688n"/>
@@ -4191,6 +4305,7 @@
         <target id="w516"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10249950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s018.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawyer"/>
@@ -4237,6 +4352,7 @@
         <target id="w524"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15203791-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s018.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="year%1:28:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="year"/>
@@ -4263,6 +4379,7 @@
         <target id="w528"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01163779-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s018.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="execution%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="capital_punishment"/>
@@ -4284,6 +4401,7 @@
         <target id="w531"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10000158-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s019.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="defense_lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="criminal_defense_lawyer"/>
@@ -4315,6 +4433,7 @@
         <target id="w536"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07308889-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s019.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="example%1:11:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00016401n"/>
@@ -4370,6 +4489,7 @@
         <target id="w546"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10225219-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s019.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="judge%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="judge"/>
@@ -4421,6 +4541,7 @@
         <target id="w555"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10228278-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s019.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="juror%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048657n"/>
@@ -4436,6 +4557,7 @@
         <target id="w557"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05917328-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s019.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="reaction%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00066343n"/>
@@ -4471,6 +4593,7 @@
         <target id="w563"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03925226-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s019.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="photograph%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="photograph"/>
@@ -4517,6 +4640,7 @@
         <target id="w570"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10228278-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s020.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="juror%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048657n"/>
@@ -4562,6 +4686,7 @@
         <target id="w578"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03925226-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s020.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="photograph%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="photograph"/>
@@ -4583,6 +4708,7 @@
         <target id="w581"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10752093-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s020.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="victim%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00079940n"/>
@@ -4628,6 +4754,7 @@
         <target id="w589"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09992837-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s020.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="daughter%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="daughter"/>
@@ -4694,6 +4821,7 @@
         <target id="w601"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10000158-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="defense_lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="criminal_defense_lawyer"/>
@@ -4755,6 +4883,7 @@
         <target id="w611"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01163779-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="death_penalty%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="capital_punishment"/>
@@ -4786,6 +4915,7 @@
         <target id="w616"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10225219-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="judge%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="judge"/>
@@ -4812,6 +4942,7 @@
         <target id="w620"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10228278-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="juror%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048657n"/>
@@ -4847,6 +4978,7 @@
         <target id="w626"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10484858-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="prosecutor%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="prosecutor"/>
@@ -4883,6 +5015,7 @@
         <target id="w632"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05195362-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="pressure%1:07:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00064262n"/>
@@ -4903,6 +5036,7 @@
         <target id="w635"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01192150-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="verdict%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="verdict"/>
@@ -4929,6 +5063,7 @@
         <target id="w639"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05838176-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="decision%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021584n"/>
@@ -4954,6 +5089,7 @@
         <target id="w643"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08414119-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t010"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="jury%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jury"/>
@@ -4985,6 +5121,7 @@
         <target id="w648"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15170504-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s021.t011"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="weekend%1:28:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="workweek_and_weekend"/>
@@ -5006,6 +5143,7 @@
         <target id="w651"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10228278-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s022.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="juror%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048657n"/>
@@ -5046,6 +5184,7 @@
         <target id="w658"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06648724-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s023.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="argument%1:10:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005600n"/>
@@ -5066,6 +5205,7 @@
         <target id="w661"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-11410625-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s023.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="effect%1:19:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="result"/>
@@ -5092,6 +5232,7 @@
         <target id="w665"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06683784-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s023.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="coverage%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="reportage"/>
@@ -5113,6 +5254,7 @@
         <target id="w668"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s023.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -5144,6 +5286,7 @@
         <target id="w673"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05682950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s023.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="interest%1:09:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="interest_(emotion)"/>
@@ -5180,6 +5323,7 @@
         <target id="w679"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07193405-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="challenge%1:10:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00017559n"/>
@@ -5200,6 +5344,7 @@
         <target id="w682"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01192150-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="verdict%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="verdict"/>
@@ -5221,6 +5366,7 @@
         <target id="w685"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15209413-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="month%1:28:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014710n"/>
@@ -5241,6 +5387,7 @@
         <target id="w688"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01182654-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="case%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawsuit"/>
@@ -5263,6 +5410,7 @@
         <target id="w691"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06681177-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="news%1:10:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="news"/>
@@ -5279,6 +5427,7 @@
         <target id="w693"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09068444-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="connecticut%1:15:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="connecticut"/>
@@ -5315,6 +5464,7 @@
         <target id="w699"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00181781-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="election%1:04:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="election"/>
@@ -5326,6 +5476,7 @@
         <target id="w700"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07472929-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="campaign%1:11:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="political_campaign"/>
@@ -5342,6 +5493,7 @@
         <target id="w702"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09889691-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="candidate%1:18:01::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00015056n"/>
@@ -5377,6 +5529,7 @@
         <target id="w707"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08161591-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s024.t011"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="united_states_senate%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="united_states_senate"/>
@@ -5413,6 +5566,7 @@
         <target id="w713"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06266417-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s025.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="news_media%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="news_media"/>
@@ -5450,6 +5604,7 @@
         <target id="w719"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07480068-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s025.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="emotion%1:12:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="emotion"/>
@@ -5471,6 +5626,7 @@
         <target id="w722"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01182654-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s025.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="case%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawsuit"/>
@@ -5503,6 +5659,7 @@
         <target id="w727"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-00358089-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s026.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="crush%1:04:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021278n"/>
@@ -5544,6 +5701,7 @@
         <target id="w732"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-02942699-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s026.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="camera%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="camera"/>
@@ -5560,6 +5718,7 @@
         <target id="w734"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10521662-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s026.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="reporter%1:18:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00057562n"/>
@@ -5580,6 +5739,7 @@
         <target id="w737"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-03121298-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s026.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="courthouse%1:06:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="courthouse"/>
@@ -5606,6 +5766,7 @@
         <target id="w741"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10249950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s026.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawyer"/>
@@ -5667,6 +5828,7 @@
         <target id="w752"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-09069415-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s026.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="new_haven%1:15:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="new_haven,_connecticut"/>
@@ -5709,6 +5871,7 @@
         <target id="w759"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05704694-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s027.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="focus%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00017153n"/>
@@ -5739,6 +5902,7 @@
         <target id="w763"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06683784-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s027.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="coverage%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="reportage"/>
@@ -5770,6 +5934,7 @@
         <target id="w768"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07196075-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="interview%1:10:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="interview"/>
@@ -5791,6 +5956,7 @@
         <target id="w771"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10224578-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="journalist%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="journalist"/>
@@ -5812,6 +5978,7 @@
         <target id="w774"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06730563-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="claim%1:10:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="proposition"/>
@@ -5833,6 +6000,7 @@
         <target id="w777"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06681177-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="news%1:10:01::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="news"/>
@@ -5864,6 +6032,7 @@
         <target id="w782"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06681551-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="report%1:10:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000739n"/>
@@ -5904,6 +6073,7 @@
         <target id="w789"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06208751-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="view%1:09:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00061746n"/>
@@ -5934,6 +6104,7 @@
         <target id="w794"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08329453-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t007"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tribunal"/>
@@ -5945,6 +6116,7 @@
         <target id="w795"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06656408-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="policy%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="policy"/>
@@ -5961,6 +6133,7 @@
         <target id="w797"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06683784-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t009"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="coverage%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="reportage"/>
@@ -5982,6 +6155,7 @@
         <target id="w800"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s028.t010"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -6008,6 +6182,7 @@
         <target id="w804"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10249950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s029.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawyer"/>
@@ -6024,6 +6199,7 @@
         <target id="w806"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08330106-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s029.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="appeals_court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="appellate_court"/>
@@ -6055,6 +6231,7 @@
         <target id="w811"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06648724-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s029.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="argument%1:10:02::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00005600n"/>
@@ -6085,6 +6262,7 @@
         <target id="w816"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-13859043-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s029.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="change%1:24:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00017651n"/>
@@ -6100,6 +6278,7 @@
         <target id="w818"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-13427078-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s029.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="adaptation%1:22:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="adaptation"/>
@@ -6121,6 +6300,7 @@
         <target id="w821"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08329453-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s029.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tribunal"/>
@@ -6152,6 +6332,7 @@
         <target id="w826"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-10249950-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s030.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="lawyer%1:18:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawyer"/>
@@ -6178,6 +6359,7 @@
         <target id="w830"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06730563-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s030.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="claim%1:10:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="proposition"/>
@@ -6204,6 +6386,7 @@
         <target id="w834"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-07167954-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="filing%1:10:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00034444n"/>
@@ -6239,6 +6422,7 @@
         <target id="w840"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-08335886-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t002"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="supreme_court%1:14:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="supreme_court_of_the_united_states"/>
@@ -6260,6 +6444,7 @@
         <target id="w843"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-05838176-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="decision%1:09:00::"/>
         <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021584n"/>
@@ -6290,6 +6475,7 @@
         <target id="w848"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01189282-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t004"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="conviction%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="conviction"/>
@@ -6317,6 +6503,7 @@
         <target id="w852"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01195867-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t005"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="trial%1:04:02::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="trial"/>
@@ -6328,6 +6515,7 @@
         <target id="w853"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06683784-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t006"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="coverage%1:10:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="reportage"/>
@@ -6404,6 +6592,8 @@
         <target id="w866"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-06652242-n" reftype="ilidef" resource="WordNet-3.0"/>
+        <externalRef confidence="1.0" reference="ili-30-05846054-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s031.t008"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="rule%1:09:00::"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="rule%1:10:00::"/>
@@ -6432,6 +6622,7 @@
         <target id="w870"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-01182654-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s032.t001"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="case%1:04:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lawsuit"/>
@@ -6509,6 +6700,7 @@
         <target id="w883"/>
       </span>
       <externalReferences>
+        <externalRef confidence="1.0" reference="ili-30-15205532-n" reftype="ilidef" resource="WordNet-3.0"/>
         <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d006.s032.t003"/>
         <externalRef confidence="1.0" resource="WordNet-3.0" reftype="sense" reference="century%1:28:00::"/>
         <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="century"/>
