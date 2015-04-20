@@ -11,10 +11,14 @@ Available you can find:
 * SemEval-2010 task 17: WSD on a specific domain
 * SemEval-2007 task 17 all words
 * SemEval-2013 Task 12: Multilingual Word Sense Disambiguation (langs en,es,fr,it,de)
+* Princeton WordNet Gloss Corpus (original files are also included in the folder itself)
 
 ##scripts##
-The scripts in the folder 'scripts' allow you to generate sense frequencies dicts for semcor 1.6 and semcor 3.0
-run python scripts/mfs_dict.py -h for more information. In order to use it (you will need to install the lxml.etree library for python.2.7)
+
+Scripts available:
+
+* mfs_dict.py. to generate sense frequencies dicts for semcor 1.6 and semcor 3.0 run python scripts/mfs_dict.py -h for more information. In order to use it (you will need to install the lxml.etree library for python.2.7)
+* wn_gloss_corpus_to_naf.py to convert the princeton wordnet gloss corpus to NAF. run python scripts/wn_gloss_corpus_to_naf.py -h for more information on how to use it.
 
 ##Contact##
 * Ruben Izquierdo

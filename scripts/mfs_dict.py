@@ -6,7 +6,7 @@ import cPickle
 import os
 
 #import external modules
-import utils
+import mfs_dict_utils as utils
 from lxml import etree
 
 '''
